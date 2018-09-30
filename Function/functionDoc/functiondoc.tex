@@ -1,0 +1,333 @@
+\documentclass[10pt,reqno, final]{ctexartutf8}
+%\documentclass{ctexartutf8}
+\topmargin=1cm \textwidth=14cm \textheight=21.5cm\oddsidemargin1.2cm\evensidemargin 1.2cm
+\usepackage[pdftex, bookmarksnumbered, bookmarksopen, colorlinks, citecolor=blue, linkcolor=blue, unicode]{hyperref}
+\usepackage[notcite,notref]{showkeys}
+
+\usepackage{setspace}
+\usepackage{esvect}
+
+\usepackage{url,hyperref,multirow}
+\usepackage{color}
+\usepackage{stmaryrd}
+\usepackage{exscale}
+
+\usepackage{relsize}
+
+\usepackage{epsfig,subfigure,amssymb,amsmath,version}
+\usepackage{amssymb,version,graphicx,fancybox,mathrsfs,pifont,booktabs}%,wrapfig}
+\usepackage{cases}
+\usepackage{epstopdf}
+
+\usepackage{float}
+\usepackage{graphicx}
+%\usepackage{pythonhighlight}
+\DeclareMathOperator\dif{d\!}
+
+\makeatletter\@addtoreset{equation}{section}\makeatother
+%\catcode`\@=11 \theoremstyle{plain}
+\renewcommand{\theequation}{\thesection.\arabic{equation}}
+\makeatletter
+\@addtoreset{figure}{section}
+\renewcommand\thefigure{\thesection.\@arabic\c@figure}
+
+
+
+\newcommand{\comm}[1]{\marginpar{%
+		\vskip-\baselineskip %raise the marginpar a bit
+		\raggedright\footnotesize
+		\itshape\hrule\smallskip#1\par\smallskip\hrule}}
+
+%\renewcommand{\theequation}{\thesection.\arabic{equation}}
+\renewcommand{\theequation}{\thesection.\arabic{equation}}
+\newtheorem{lemma}{引理}[section]
+\newtheorem{theorem}{定理}[section]
+\newtheorem{corollary}{推论}[section]
+\newtheorem{proposition}{性质}[section]
+\newtheorem{definition}{定义}[section]
+\newtheorem{remark}{注}[section]
+\newtheorem{example}{例}[section]
+\newtheorem{proof}{证明}[section]
+\newcommand{\bs}[1]{\boldsymbol{#1}}
+\def \ri {{\rm i}}
+\def \ds {{\Delta s}}
+\renewcommand{\arraystretch}{1.5}
+
+\makeatletter
+\@addtoreset{figure}{section}
+\renewcommand\thefigure{\thesection.\@arabic\c@figure}
+
+
+
+\begin{document}
+\graphicspath{{./figs/}}
+%\maketitle
+%\newpage
+\tableofcontents
+\newpage
+\section{网格数值积分}
+\subsection{三角形与四边形之间的映射}\label{chapter3.1}
+把参考矩形$\Box=[-1,1]^2$的四个顶点$\widehat{P}_1(-1,-1),\widehat{P}_2(1,-1),\widehat{P}_3(1,1)$ 与 $\widehat{P}_4(-1,1)$ 简记为$\{\widehat P_i(\xi_i, \eta_i)\}_{i=1}^4$, 同时把一般的凸四边形$\diamondsuit$的四个顶点记为
+$\{P_i(x_i, y_i)\}_{i=1}^4$，定义
+\begin{equation}\label{paratransform1}
+\begin{split}
+\alpha_1=\frac{1}{4}\sum\limits_{i=1}^4x_i\xi_i\eta_i, \quad\alpha_2=\frac{1}{4}\sum\limits_{i=1}^4x_i\xi_i,\quad \alpha_3=\frac{1}{4}\sum\limits_{i=1}^4x_i\eta_i,\quad
+ \alpha_4=\frac{1}{4}\sum\limits_{i=1}^4x_i,\\
+ \beta_1=\frac{1}{4}\sum\limits_{i=1}^4y_i\xi_i\eta_i, \quad\beta_2=\frac{1}{4}\sum\limits_{i=1}^4y_i\xi_i,\quad \beta_3=\frac{1}{4}\sum\limits_{i=1}^4y_i\eta_i,\quad\beta_4=\frac{1}{4}\sum\limits_{i=1}^4y_i.
+\end{split}
+\end{equation}
+给出常见参考矩形与一般四边形的变换$\mathscr F$:
+\begin{equation}\label{transform1}
+\mathscr F:   x = \alpha_1\xi\eta+\alpha_2\xi+\alpha_3\eta+\alpha_4,\quad y =\beta_1\xi\eta+\beta_2\xi+\beta_3\eta+\beta_4,\quad \forall (\xi, \eta) \in \Box.
+\end{equation}
+
+它是一个从 $\square$ 到 $\diamondsuit$ 的一一映射，相应变换的雅可比为
+\begin{equation}\label{J}
+J=|\mathbb J|=\det\Bigg(\frac{\partial(x,y)}{\partial(\xi, \eta)}\Bigg)
+=
+ \begin{vmatrix}
+      \alpha_1\eta+\alpha_2 &  \beta_1\eta+\beta_2 \\
+      \alpha_1\xi+\alpha_3 &  \beta_1\xi+\beta_3 \\
+    \end{vmatrix}
+=D_1\xi+D_2\eta+D_3
+ .
+\end{equation}
+这里
+\begin{equation}\label{jacobianpara}
+D_1=\begin{vmatrix}
+      \alpha_2 &  \beta_2 \\
+      \alpha_1 &  \beta_1 \\
+    \end{vmatrix},\quad D_2=\begin{vmatrix}
+      \alpha_1 &  \beta_1 \\
+      \alpha_3 &  \beta_3 \\
+    \end{vmatrix},\quad D_3=\begin{vmatrix}
+      \alpha_2 &  \beta_2 \\
+      \alpha_3 &  \beta_3 \\
+    \end{vmatrix}.
+\end{equation}
+很显然雅可比矩阵$\mathbb J$ 的伴随矩阵$\mathbb J^{*}$为
+\begin{equation}
+\mathbb J^{*} =
+J\mathbb J^{-1}=\begin{pmatrix}
+      \beta_1\xi+\beta_3 &  -\beta_1\eta-\beta_2 \\
+      -\alpha_1\xi-\alpha_3 &   \alpha_1\eta+\alpha_2\\
+    \end{pmatrix}.
+\end{equation}
+\subsection{求插值函数的$L_2$范数}
+考虑的问题是用数值积分计算
+\begin{equation}%\label{}
+  || f - \mathcal I^p f ||_{L^2(K)}
+\end{equation}
+其中，K为三角形(可以强行增加一个顶点让三角形变成四边形)或者凸四边形区域。设$[-1,1]$上的插值节点为$\{\xi_i\}_{i=1}^p$，$h_m(\xi)$为节点$\{\xi_i\}_{i=1}^p$上的拉格让日插值多项式基函数
+（满足$h_m(\xi_n)=0,m\neq n; h_m(\xi_n)=1,m\neq n$），$ \mathcal I^p$为$p$次插值算子满足
+\begin{equation}%\label{}
+   \mathcal I^p f(x,y)= \sum_{m,n=1}^{p} f_{mn} \widehat{\varphi}_{mn} \circ \mathscr F^{-1}(x,y),
+   \quad \widehat{\varphi}_{mn}(\xi, \eta) = h_m(\xi)h_n(\eta),
+   \;f_{mn} =  f\circ\mathscr F(\xi_m, \xi_n)  .
+\end{equation}
+这里的$\mathscr F$为$[-1,1]^2$到$K$上变换（默认采用参考矩形与四边形之间的双线性变换\eqref{transform1}），设对应雅可比为$J$，则有
+\begin{equation}\label{discret}
+\begin{split}
+|| f - \mathcal I^p f ||_{L^2(K)} ^2
+&= \int_{K} (f - \mathcal I^p f)^2 \text{d}x\text{d}y\\
+&= \int_{-1}^{1}\!\!\int_{-1}^{1} \Big(\widehat f -  \sum_{m,n=1}^{p} f_{mn} \widehat{\varphi}_{mn} \Big)^2 J \text{d}\xi\text{d}\eta\\
+&= \sum_{i,j=1}^{N} \Big(f\circ\mathscr F(P_i, P_j) -  \sum_{m,n=1}^{p} f_{mn}h_m(P_i)h_n(P_j)\Big)^2 J(P_i, P_j)W_iW_j \\
+\end{split}
+\end{equation}
+其中$\{P_i,W_i\}_{i=1}^{N}$为数值积分点和权。记
+%\[\mathbb{H} = [h_{ij}]_{(p+1)\times (N+1)} = [h_i(P_j)]_{(p+1)\times (N+1)}\]
+%\[ \mathbb{F} = [f_{ij}]_{(p+1)\times (p+1)} = [f(\xi_i, \xi_j)]_{(p+1)\times (p+1)} \]
+%\[ \mathbb{\widehat F} = [\widehat f_{ij}]_{(N+1)\times(N+1)} = [\widehat f(P_i, P_j)]_{(N+1)\times (N+1)}\]
+%\[\mathbb{W} = [w_{ij}]_{(N+1)\times (N+1)} = [W_iW_j]_{(N+1)\times (N+1)}\]
+%\[\mathbb{J} = [j_{ij}]_{(N+1)\times (N+1)} = [J(P_i, P_j)]_{(N+1)\times (N+1)}\]
+\[\mathbb{H} = [h_i(P_j)]_{p\times N}\]
+\[ \mathbb{F} = [ f\circ\mathscr F(\xi_i, \xi_j)]_{p\times p} \]
+\[ \mathbb{\widehat F} = [ f\circ\mathscr F(P_i, P_j)]_{N\times N}\]
+\[\mathbb{W} = [W_iW_j]_{N\times N}\]
+\[\mathbb{J} = [J(P_i, P_j)]_{N\times N}\]
+于是离散积分式\eqref{discret}可以写成矩阵的形式
+\begin{equation}%\label{}
+  || f - \mathcal I^p f ||_{L^2(K)} ^2 = (\mathbb{\widehat F} - \mathbb{H}^{\rm T}\mathbb{F} \mathbb{H}) \star(\mathbb{\widehat F} - \mathbb{H}^{\rm T}\mathbb{F} \mathbb{H}) \star \mathbb{J}\star \mathbb{W}
+\end{equation}
+这里的运算符号$\star$表示矩阵的分量积，即两个矩阵的所有的对应位置的元素的乘积之和，如果是多个矩阵运算，表示各个矩阵的所有的对应位置的元素的乘积之和，例如$\mathbb{A}\star\mathbb{B}\star\mathbb{C} = \sum A_{ij}B_{ij}C_{ij}$。\\
+\indent同样地有
+\begin{equation*}
+  \int_K f(x,y) \text{d}x\text{d}y = \mathbb{\widehat F} \star \mathbb{J}\star \mathbb{W}
+\end{equation*}
+对于一般有限元右端项求内积$(f,\varphi_{mn})_K$，我们有
+\begin{equation*}
+ (f,\varphi_{mn})_K = \int_{\Box} \ \widehat f \;\widehat{\varphi}_{mn} J \text{d}\xi\text{d}\eta
+ = \sum_{i,j=1}^{N} f\circ\mathscr F(P_i, P_j)   h_m(P_i)h_n(P_j) J(P_i, P_j)W_iW_j
+ = \mathbb{\widehat F} \star \mathbb{J}\star \mathbb{W} \star \mathbb{H}_{mn}
+\end{equation*}
+其中$\mathbb{H}_{mn}$ 表示矩阵$\mathbb{H}$的第$m$行的行向量${\bf H}_m$， 与第$n$行的行向量${\bf H}_n$的外积，即
+\[\mathbb{H}_{mn} = {\bf H}_m^T {\bf H}_n.\]
+\subsection{多个单元问题}
+多个单元问题有两种来源，一是积分区域本身是一个比较大型的不规则的多边形网格$\mathcal{T}_h = \{ K \}$，另一个是函数的光滑性比较差，为了获得数值积分更高的精度，因此需要把参考矩形$\Box = [-1,1]^2$剖分成若干个全等的矩形子区域$\{\Box_i\}_{i=1}^{s}$，且满足$\Box = \bigcup_{i=1}^{s} \Box_i$,同时各个子区域互不重叠。这两种情形看似一回事，但实现机制有所不同。我们希望能实现的目标是，给定如下已知条件：
+\begin{enumerate}
+  \item 被积函数$f$。
+  \item 积分区域，可以是一个网格$\mathcal{T}_h$，也可以是一个四边形单元$K$的四个顶点的坐标。
+  \item 积分节点和积分权$\{P_i,W_i\}_{i=1}^{N}$。
+  \item 插值节点$\{\xi_i\}_{i=1}^p$，在不需要考虑插值的时候，这个参数可以不要选择。
+
+\end{enumerate}
+程序能通过上述的已知条件，能够很方便求出如下积分式：
+\begin{enumerate}
+  \item 函数$f$自身的积分，以及函数$L^2$范数。
+  \item 函数$f$的插值$\mathcal I^p f$的积分，以及插值的$L^2$范数。
+  \item 函数$f$的插值的$L^2$误差。
+\end{enumerate}
+同时能满足要求：对于单个区域$K$上的积分都可以选择是否将该区域分成若干个子区域。
+\begin{remark}
+  对于$K$是三角形的情形，程序会自动把$K$当成四边形处理，即在三角形的某条边上强行增加一个点。这里有两个控制参数，一个是边序号，一个是点的位置。
+\end{remark}
+对于式\eqref{discret}计算单元区域$K$上的插值误差，具体分解为：\\
+\begin{equation}\label{discretsub}
+\begin{split}
+|| f - \mathcal I^p f ||_{L^2(K)} ^2
+&= \int_{\Box} \Big(f\circ\mathscr F(\xi, \eta)-  \sum_{m,n=1}^{p} f_{mn} \widehat{\varphi}_{mn} \Big)^2 J \text{d}\xi\text{d}\eta\\
+&= \sum_{k=1}^{s}\int_{\Box_k} \Big(f\circ\mathscr F(\xi, \eta) -  \sum_{m,n=1}^{p} f_{mn} \widehat{\varphi}_{mn} \Big)^2 J \text{d}\xi\text{d}\eta\\
+&= \frac{1}{s}\sum_{k=1}^{s}\int_{\Box} \Big( f\circ\mathscr F\mathscr S_k(\xi, \eta)
+    - \sum_{m,n=1}^{p} f_{mn} h_m \circ\mathscr S_k^{\xi}(\xi) h_n \circ\mathscr S_k^{\eta}(\eta) \Big)^2
+    J\circ\mathscr S_k(\xi, \eta) \text{d}\xi\text{d}\eta\\
+&= \frac{1}{s}\sum_{k=1}^{s} (\mathbb{\widehat F}_{k} - \mathbb{H}_k^{\eta}{}^{\rm T}\mathbb{F} \mathbb{H}_k^{\xi})\star
+                             (\mathbb{\widehat F}_{k} - \mathbb{H}_k^{\eta}{}^{\rm T}\mathbb{F} \mathbb{H}_k^{\xi})\star
+                                \mathbb{J}_k\star \mathbb{W}\\
+& = \frac{1}{s}\mathbb{W}\star
+\Bigg( \sum_{k=1}^{s} (\mathbb{\widehat F}_{k} - \mathbb{H}_k^{\eta}{}^{\rm T}\mathbb{F} \mathbb{H}_k^{\xi})\star
+        (\mathbb{\widehat F}_{k} - \mathbb{H}_k^{\eta}{}^{\rm T}\mathbb{F} \mathbb{H}_k^{\xi})\star
+        \mathbb{J}_k
+\Bigg)
+\end{split}
+\end{equation}
+这里的$\mathscr S_k$为$\Box$到$\Box_k$之间的线性变换，注意由于每个子区域是全等的，因此它们变换的雅可比恒为$\frac{1}{s}$，
+由于变换$\mathscr S_k$为两个矩形之间的线性变换，从而该变换对每个分量而言是独立的，于是可以设
+$\mathscr S_k(\xi, \eta) = \big(\mathscr S_k^{\xi}(\xi), \mathscr S_k^{\eta}(\eta)\big)$，其中$\mathscr S_k^{\xi}$与$\mathscr S_k^{\eta}$都是一维线性变换；
+积分式\eqref{discretsub}中的矩阵分别为
+\[\mathbb{H}_k^{\xi} = [h_i\circ\mathscr S_k^{\xi}(P_j)]_{p\times N}\]
+\[\mathbb{H}_k^{\eta} = [h_i\circ\mathscr S_k^{\eta}(P_j)]_{p\times N}\]
+\[ \mathbb{\widehat F}_k = [ f\circ\mathscr F\mathscr S_k(P_i, P_j)]_{N\times N}\]
+\[\mathbb{J}_k = [J\circ\mathscr S_k(P_i, P_j)]_{N\times N}\]
+类似地，对于网格$\mathcal{T}_h$上的插值误差可以利用如下矩阵公式
+\begin{equation*}
+  \begin{split}
+|| f - \mathcal I^p f ||_{L^2(\mathcal{T}_h)} ^2
+&= \sum_{K\in \mathcal{T}_h}|| f - \mathcal I^p f ||_{L^2(K)} ^2 \\
+&= \sum_{K\in \mathcal{T}_h}  (\mathbb{\widehat F} - \mathbb{H}^{\rm T}\mathbb{F} \mathbb{H})
+        \star(\mathbb{\widehat F} - \mathbb{H}^{\rm T}\mathbb{F} \mathbb{H}) \star \mathbb{J}\star \mathbb{W}\\
+&= \mathbb{W}\star \Big(\sum_{K\in \mathcal{T}_h} (\mathbb{\widehat F} - \mathbb{H}^{\rm T}\mathbb{F} \mathbb{H})
+        \star(\mathbb{\widehat F} - \mathbb{H}^{\rm T}\mathbb{F} \mathbb{H}) \star \mathbb{J}\Big)
+   \end{split}
+\end{equation*}
+\begin{remark}
+从上述的一些公式可以看出矩阵$\mathbb{W}$与$\mathbb{H}$只需要计算一次，并且$\mathbb{W}$可以提出来。
+\end{remark}
+
+\subsection{数值积分算例}
+设$p>0$为正实在数，考虑函数$f(x,y) = (x+y)^{p}$在$[-1,1]^2$上的积分
+\begin{equation}\label{eg1}
+\begin{split}
+  \int_{-1}^{1}\!\!\int_{-1}^{1}(x+y)^{p}\text{d}x\text{d}y
+  &= \int_{-1}^{1}\frac{1}{p+1}\Big( (y+1)^{p+1} -  (y-1)^{p+1}   \Big)\text{d}y \\
+  &= \frac{1}{p+1}\frac{1}{p+2}  \Big( (y+1)^{p+2} -  (y-1)^{p+2}   \Big)\Big|_{-1}^1\\
+  &= \frac{1}{p+1}\frac{1}{p+2}(2^{p+2} + (-2)^{p+2})
+\end{split}
+\end{equation}
+很显然当$p$为奇数时，积分\label{eg1}为$0$。\\
+\indent如果$p=\frac{2}{3}$时，有
+\begin{equation*}
+ \int_{-1}^{1}\!\!\int_{-1}^{1}(x+y)^{\frac{2}{3}}\text{d}x\text{d}y  =
+ \frac{9}{40}\big(2^{\frac{8}{3}} + (-2)^{\frac{8}{3}}  \big)=  \frac{9}{20}2^{\frac{8}{3}}=\frac{9}{5}4^{\frac{1}{3}}
+\end{equation*}
+\indent如果$p=\frac{10}{3}$时，有
+\begin{equation*}
+ \int_{-1}^{1}\!\!\int_{-1}^{1}(x+y)^{\frac{10}{3}}\text{d}x\text{d}y  =
+ \frac{9}{208}\big(2^{\frac{16}{3}} + (-2)^{\frac{16}{3}}  \big)=  \frac{9}{104}2^{\frac{16}{3}}=\frac{36}{13}2^{\frac{1}{3}}
+\end{equation*}
+\newpage
+\section{二维质量矩阵与对流矩阵}
+本节的所有相关符号沿用上节。
+\subsection{需要考虑的积分}
+在HDG的计算中，我们需要考虑质量矩阵$\mathbb{M}$和对流矩阵$\mathbb{C}_x$与$\mathbb{C}_y$如下所示
+\begin{equation}\label{massmatrix}
+  \mathbb{M} =\big[(M)_{ij}^{i'j'}\big]_{p^2p^2}
+  =\Big[\int_K {\varphi}_{ij} {\varphi}_{i'j'}  \text{d}x\text{d}y  \Big]_{p^2p^2}
+  =\Big[\int_\Box \widehat{\varphi}_{ij} \widehat{\varphi}_{i'j'}  J  \text{d}\xi\text{d}\eta  \Big]_{p^2p^2},
+\end{equation}
+
+\begin{equation}\label{convertmatrix}
+\left(
+  \begin{array}{c}
+  \mathbb{C}_x \\
+  \mathbb{C}_y
+  \end{array}
+\right)
+ =
+ \left(
+  \begin{array}{c}
+  \big[(C_x){}_{ij}^{i'j'}\big]_{p^2p^2} \\
+  \big[(C_y){}_{ij}^{i'j'}\big]_{p^2p^2}
+  \end{array}
+\right)
+=\int_K
+{\varphi}_{ij}
+ \nabla   {\varphi}_{i'j'}  \text{d}x\text{d}y
+=\int_\Box
+\widehat{\varphi}_{ij}
+\mathbb{J}^{*}\widehat\nabla    \widehat{\varphi}_{i'j'} \text{d}\xi\text{d}\eta.
+\end{equation}
+由于\eqref{massmatrix}与\eqref{convertmatrix}中涉及的积分项中的$\widehat\varphi,  J, \mathbb{J}^{*}, \widehat\nabla \widehat{\varphi}$都只是多项式，
+因此这三个矩阵都是确定的值，如果这个积分里面还有别的函数，例如$\beta$，我们可以将$\beta$的插值函数进行替换即可。
+\subsection{积分的具体细节}
+定义矩阵$\widetilde{\mathbb M}=(\widetilde M_{ij}), \widehat{\mathbb M}=(\widehat M_{ij}), \widetilde{\mathbb C}=(\widetilde C_{ij}), \widehat{\mathbb C}=(\widehat C_{ij})$满足
+\begin{equation}\label{basematrix}
+\begin{split}
+\widetilde M_{ij}=\int_{-1}^1h_i(\xi)h_{j}(\xi) d\xi, \quad \widehat M_{ij}=\int_{-1}^1h_i(\xi)h_{j}(\xi)\xi d\xi,\\
+\widetilde C_{ij}=\int_{-1}^1h'_i(\xi)h_{j}(\xi) d\xi, \quad \widehat C_{ij}=\int_{-1}^1h'_i(\xi)h_{j}(\xi)\xi d\xi,
+\end{split}
+\end{equation}
+从而\eqref{massmatrix}有如下关系
+\begin{equation*}
+ \int_\Box \widehat{\varphi}_{ij} \widehat{\varphi}_{i'j'}  J  \text{d}\xi\text{d}\eta
+ = D_1 \widehat M_{ii'}\widetilde M_{jj'} + D_2\widehat M_{jj'}\widetilde M_{ii'}
+        + D_3\widetilde M_{ii'}\widetilde M_{jj'}
+\end{equation*}
+因此有
+\[
+\mathbb{M} = D_1\widetilde {\mathbb M} \otimes \widehat {\mathbb M} +
+D_2 \widehat{\mathbb M} \otimes \widetilde {\mathbb M} + D_3\widetilde {\mathbb M} \otimes \widetilde {\mathbb M}.\]
+同样对于\eqref{convertmatrix}有
+\begin{equation*}
+\int_\Box
+\mathbb{J}^{*}\widehat\nabla    \widehat{\varphi}_{ij}
+\widehat{\varphi}_{i'j'}
+\text{d}\xi\text{d}\eta
+=
+\left(
+\begin{array}{c}
+  (\beta_1\widehat C_{ii'} + \beta_3\widetilde C_{ii'} )\widetilde M_{jj'}
+  - (\beta_1\widehat C_{jj'} + \beta_2\widetilde C_{jj'} )\widetilde M_{ii'}\\
+  -(\alpha_1\widehat C_{ii'} + \alpha_3\widetilde C_{ii'} )\widetilde M_{jj'}
+  + (\alpha_1\widehat C_{jj'} + \alpha_2\widetilde C_{jj'} )\widetilde M_{ii'}
+\end{array}
+\right)
+\end{equation*}
+相对应的矩阵有如下关系式
+\[
+\mathbb{C}_x = \beta_1\widetilde{\mathbb M}\otimes\widehat{\mathbb C} + \beta_3 \widetilde{\mathbb M} \otimes \widetilde{\mathbb C}
+- \beta_1\widehat{\mathbb C} \otimes \widetilde{\mathbb M} - \beta_2 \widetilde{\mathbb C} \otimes \widetilde{\mathbb M}
+,
+\]
+\[
+\mathbb{C}_y = -\alpha_1\widetilde{\mathbb M}\otimes\widehat{\mathbb C} - \alpha_3 \widetilde{\mathbb M} \otimes \widetilde{\mathbb C}
++ \alpha_1\widehat{\mathbb C} \otimes \widetilde{\mathbb M} + \alpha_2 \widetilde{\mathbb C} \otimes \widetilde{\mathbb M}
+.
+\]
+因此只需要事先计算好$\eqref{basematrix}$中的四个矩阵就能计算好质量矩阵和对流矩阵。
+%\section{网格排点}
+%遵循原则：先顶点再边最后内部。
+%\subsection{DG排点}
+%这种情形比较简单，
+%\subsection{CG排点}
+%这种情形相对复杂
+\end{document} 

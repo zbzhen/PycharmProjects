@@ -1,0 +1,332 @@
+\documentclass[10pt,reqno, final]{amsart}
+\usepackage[notcite,notref]{showkeys}
+
+\usepackage{url,hyperref,multirow}
+\usepackage{color}
+\usepackage{stmaryrd}
+\usepackage{exscale}
+
+\usepackage{relsize}
+
+\usepackage{epsfig,subfigure,amssymb,amsmath,version,slashbox}
+\usepackage{amssymb,version,graphicx,fancybox,mathrsfs,pifont,booktabs}%,wrapfig}
+
+\usepackage{epstopdf}
+%\usepackage[active]{srcltx}
+
+%\textwidth 6in
+% \textheight 8in
+%\renewcommand{\baselinestretch}{1.2}
+%\usepackage{graphicx}
+
+\headheight=3pt
+\topmargin=0.3cm
+\textheight=8.5in
+\textwidth=5.8in
+\setlength{\oddsidemargin}{1cm}
+\setlength{\evensidemargin}{1cm}
+\addtolength{\voffset}{-5pt}
+
+\catcode`\@=11 \theoremstyle{plain}
+%\@addtoreset{equation}{section}   % Makes \section reset 'equation' counter.
+%\renewcommand{\theequation}{\arabic{section}.\arabic{equation}}
+%\@addtoreset{figure}{section}
+%\renewcommand\thefigure{\thesection.\@arabic\c@figure}
+%\@addtoreset{table}{section}
+%\renewcommand\thetable{\thesection.\@arabic\c@table}
+
+
+\renewcommand{\theequation}{\thesection.\arabic{equation}}
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{corollary}{Corollary}[section]
+\newtheorem{proposition}{Proposition}[section]
+\newtheorem{definition}{Definition}[section]
+\newtheorem{remark}{Remark}[section]
+\newtheorem{example}{Example}[section]
+\@addtoreset{figure}{section}
+\renewcommand\thefigure{\thesection.\@arabic\c@figure}
+\@addtoreset{table}{section}
+\renewcommand\thetable{\thesection.\@arabic\c@table}
+
+
+
+
+\newcommand{\bs}[1]{\boldsymbol{#1}}
+\def \ri {{\rm i}}
+
+
+
+\newcommand{\comm}[1]{\marginpar{%
+\vskip-\baselineskip %raise the marginpar a bit
+\raggedright\footnotesize
+\itshape\hrule\smallskip#1\par\smallskip\hrule}}
+
+\DeclareSymbolFont{ugmL}{OMX}{mdugm}{m}{n}
+\SetSymbolFont{ugmL}{bold}{OMX}{mdugm}{b}{n}
+
+\DeclareMathAccent{\wideparen}{\mathord}{ugmL}{"F3}
+
+
+%\newcommand{\namelistlabel}[1]{\mbox{#1}\hfill}
+%\newenvironment{namelist}[1]{%
+%\begin{list}{}
+%{
+%     \let\makelabel\namelistlabel
+%     \settowidth{\labelwidth}{#1}
+%     \setlength{\leftmargin}{1.3\labelwidth}
+%    }
+%  }}%
+%\end{list}}
+\begin{document}
+\bibliographystyle{plain}
+\graphicspath{{./figs/}}
+\baselineskip 13pt
+\title{Mixed triangular spectral element method for elliptic problem}
+\maketitle
+\section{2-D problem}
+%\subsection{Model problem and mixed element formulation}
+%\begin{equation}
+%\label{modelproblem}
+%\left\{\begin{array}{ll}\displaystyle -\nabla\cdot(\beta\nabla
+%u(\bs x))=f(\bs x)&\displaystyle \bs x\in\Omega\\
+%\displaystyle u=g &\displaystyle on\quad \partial\Omega
+%\end{array}\right.
+%\end{equation}
+%where $\beta(x,y)$ is a given function. For the sake of the definition of the mixed spectral elment scheme, we rewrite (\ref{modelproblem}) into a first order system
+%\begin{eqnarray}
+%\beta^{-1}{\bs q}-\nabla u=0 & \forall \bs x\in \Omega\nonumber\\
+%-\nabla\cdot{\bs q}=f(\bs x) & \forall \bs x\in \Omega\label{firstordersystem}\\
+%u=g & on\quad \partial\Omega\nonumber
+%\end{eqnarray}
+%The variational formulation is difined as: Find $(\bs q, u)\in (H^1(\Omega))^2\times H^1(\Omega)$ s.t.
+%\begin{eqnarray}
+%(\beta^{-1}{\bs q}, \bs v)_{\Omega}+(u, \nabla\cdot\bs v)_{\Omega}=&\langle g, \bs v\cdot\bs n\rangle_{\partial\Omega}\nonumber\\
+%-(\nabla\cdot{\bs q},w)_{\Omega}=&(f, w)_{\Omega}\label{variationalform}
+%\end{eqnarray}
+%Define
+%\begin{equation}
+%{\bs W}_N=\{ v\in H^1(\Omega), v|_{\Omega_e}\in \mathcal{P}_N(\Omega_e)\},\quad \bs V_N=(\bs W_N)^2
+%\end{equation}
+%then the mixed spectral element formulation is: find ${\bs q}_N\in {\bs V}_N$, $u_N\in {\bs W}_N$, s.t.
+%\begin{eqnarray}
+%\left(\beta^{-1}{\bs q}_N, {\bs v}_N\right)+(u_N,\nabla\cdot{\bs v}_N)=\langle g,{\bs v}_h\cdot{\bs n}\rangle\nonumber\\
+%-(\nabla\cdot{\bs q}_N, w_N)=(f,w_N)\label{localsolver}
+%\end{eqnarray}
+%for all ${\bs v}_N\in {\bs V}_N$ and $w_N\in {\bs W}_N$.
+%
+%\;\;
+%
+%\subsection{Assembling linear system}
+%Denote by $\Phi_i\big|_{i=1}^{d_q}$, $\phi_i\big|_{i=1}^{d_u}$  are basis of spaces
+%${\bs V}_N$, $\mathcal{W}_N$. Then ${\bs q}_N$, $u_N$ have expressions
+%$${\bs q}_N=\sum q_j\Phi_j,\quad u_N=\sum u_j\varphi_j.$$
+%where $\Phi_j$ has the form
+%\begin{equation}
+%\Phi_1^{(m)}=\begin{pmatrix}
+%\varphi^{(m)}_1\\
+%0
+%\end{pmatrix},\cdots,
+%\Phi_{N}^{(m)}=\begin{pmatrix}
+%\varphi^{(m)}_{N}\\
+%0
+%\end{pmatrix},\quad
+%\Phi_{N+1}^{(m)}=\begin{pmatrix}
+%0\\
+%\varphi^{(m)}_1
+%\end{pmatrix},\quad \Phi_{2N}^{(m)}=\begin{pmatrix}
+%0\\
+%\varphi^{(m)}_{N}
+%\end{pmatrix}.
+%\end{equation}
+%
+%Substitute these expressions into (\ref{localsolver}) and set $v_N=\Phi_i$ and $w_N=\phi_i$ we have
+%\begin{equation}
+%\begin{split}
+%\sum q_j\big(\beta^{-1}\Phi_j, \Phi_i\big)_{\Omega}+\sum\limits_{j=1}u_j\big(\varphi_j, \nabla\cdot\Phi_i\big)_{\Omega} =&\langle g, \Phi_i\cdot{\bs n}\rangle_{\partial\Omega} \nonumber\\
+%-\sum q_j(\nabla\cdot\Phi_j,\varphi_i)_{{\Omega}}
+%=&(f,\varphi_i)_{\Omega} \nonumber
+%\end{split}
+%\end{equation}
+%Denoted by
+%\begin{equation}
+%\begin{array}{lll}
+%\mathbb{M}=\big[(\beta^{-1}\varphi_i, \varphi_j)_{{\Omega}}\big],
+%&\mathbb{C}_x=\big[(\partial_x\varphi_i, \varphi_j)_{{\Omega}}\big],
+%&\mathbb{C}_y=\big[(\partial_y\varphi_i, \varphi_j)_{{\Omega}}\big]
+%\end{array}
+%\end{equation}
+%then the formulation \eqref{localsolver} equivalent to the following linear systems
+%\begin{equation}
+%\label{locallinearsys}
+%\begin{bmatrix}
+%\mathbb{K}_{11} & \mathbb{K}_{12}  \\
+%\mathbb{K}_{21} & \bs 0
+%\end{bmatrix}
+%\begin{bmatrix}
+%\mathbb{Q}\\
+%\mathbb{U}
+%\end{bmatrix}=\mathbb{F}
+%\end{equation}
+%where
+%\begin{equation}
+%\mathbb K_{11}=\begin{pmatrix}
+%\mathbb M & 0 \\
+%0 & \mathbb M
+%\end{pmatrix}\quad \mathbb K_{12}=\begin{pmatrix}
+%\mathbb C_x \\
+% \mathbb C_y
+%\end{pmatrix}
+%\quad \mathbb K_{21}=-\begin{pmatrix}
+%\mathbb C_x & \mathbb C_y
+%\end{pmatrix}
+%\end{equation}
+%
+
+\subsection{Model problem and mixed element formulation}
+\begin{equation}
+\label{modelproblem1}
+\left\{\begin{array}{ll}\displaystyle -\nabla\cdot(\beta\nabla
+u(\bs x))  +\gamma u   =    f(\bs x)&\displaystyle \bs x\in\Omega\\
+\displaystyle u=g &\displaystyle on\quad \partial\Omega
+\end{array}\right.
+\end{equation}
+where $\beta(x,y)$ is a given function. For the sake of the definition of the mixed spectral elment scheme, we rewrite (\ref{modelproblem1})
+into a first order system
+\begin{eqnarray}
+\beta^{-1}{\bs q}-\nabla u=0 & \forall \bs x\in \Omega\nonumber\\
+-\nabla\cdot{\bs q}  +\gamma u   =f(\bs x) & \forall \bs x\in \Omega\label{firstordersystem1}\\
+u=g & on\quad \partial\Omega\nonumber
+\end{eqnarray}
+The variational formulation is difined as: Find $(\bs q, u)\in (H^1(\Omega))^2\times H^1(\Omega)$ s.t.
+\begin{eqnarray}
+&(\beta^{-1}{\bs q}, \;\bs v)_{\Omega}  =(\nabla u, \;\bs v)_{\Omega}\nonumber\\
+&({\bs q},\;\nabla w)_{\Omega}  + (\gamma u,\; w)_{\Omega}  = (f,\; w)_{\Omega}  \label{variationalform1}
+%&({\bs q},\;\nabla w)_{\Omega}=(f,\; w)_{\Omega} + \langle g,\; w\rangle_{\partial \Omega} \label{variationalform}
+%-(\nabla\cdot{\bs q},\;w)_{\Omega}=&(f,\; w)_{\Omega}\label{variationalform}
+\end{eqnarray}
+
+Define
+\begin{equation}
+{\bs W}_N=\{ v\in H^1(\Omega), v|_{\Omega_e}\in \mathcal{P}_N(\Omega_e)\},\quad \bs V_N=(\bs W_N)^2
+\end{equation}
+then the mixed spectral element formulation is: find ${\bs q}_N\in {\bs V}_N$, $u_N\in {\bs W}_N$, s.t.
+\begin{eqnarray}
+&(\beta^{-1}{\bs q_N}, \;\bs v_N)_{\Omega}  =(\nabla u_N, \;\bs v_N)_{\Omega}\nonumber\\
+&({\bs q_N},\;\nabla w_N)_{\Omega} + (\gamma u_N,\; w_N)_{\Omega} =(f,\; w_N)_{\Omega} \label{localsolver}
+\end{eqnarray}
+for all ${\bs v}_N\in {\bs V}_N$ and $w_N\in {\bs W}_N$.
+
+\subsection{Assembling linear system}
+Denote by $\Phi_i\big|_{i=1}^{d_q}$, $\phi_i\big|_{i=1}^{d_u}$  are basis of spaces
+${\bs V}_N$, $\mathcal{W}_N$. Then ${\bs q}_N$, $u_N$ have expressions
+$${\bs q}_N=\sum q_j\Phi_j,\quad u_N=\sum u_j\varphi_j.$$
+where $\Phi_j$ has the form
+\begin{equation}
+\Phi_1^{(m)}=\begin{pmatrix}
+\varphi^{(m)}_1\\
+0
+\end{pmatrix},\cdots,
+\Phi_{N}^{(m)}=\begin{pmatrix}
+\varphi^{(m)}_{N}\\
+0
+\end{pmatrix},\quad
+\Phi_{N+1}^{(m)}=\begin{pmatrix}
+0\\
+\varphi^{(m)}_1
+\end{pmatrix},\quad \Phi_{2N}^{(m)}=\begin{pmatrix}
+0\\
+\varphi^{(m)}_{N}
+\end{pmatrix}.
+\end{equation}
+
+Substitute these expressions into (\ref{localsolver}) and set $v_N=\Phi_i$ and $w_N=\phi_i$ we have
+\begin{equation}
+\begin{split}
+\sum q_j\big(\beta^{-1}\Phi_j, \Phi_i\big)_{\Omega}
+=&\sum u_j\big(\nabla\varphi_j,\Phi_i\big)_{\Omega} \nonumber\\
+%=&\langle g, \Phi_i\cdot{\bs n}\rangle_{\partial\Omega}
+\sum q_j(\Phi_j,\nabla\varphi_i)_{{\Omega}} + \sum u_j\big( \gamma\varphi_j,   \varphi_i\big)_{\Omega}
+=&(f,\varphi_i)_{\Omega} \nonumber
+\end{split}
+\end{equation}
+Denoted by
+\begin{equation*}
+\begin{array}{lll}
+\mathbb{M}=\big[(\beta^{-1}\varphi_i, \varphi_j)_{{\Omega}}\big],
+&\mathbb{N}=\big[(\gamma\varphi_i, \varphi_j)_{{\Omega}}\big],
+&{\bf F}=\big[ (f,\varphi_i)_{\Omega} \big]
+\end{array}
+\end{equation*}
+\begin{equation*}
+ \mathbb{C}_x=\big[(\varphi_i, \partial_x\varphi_j)_{{\Omega}}\big], \quad  \mathbb{C}_y=\big[(\varphi_i, \partial_y\varphi_j)_{{\Omega}}\big]
+\end{equation*}
+\begin{equation*}
+  {\bf Q}_x = [q_1,q_2,\cdots,q_N]^T, \quad  {\bf Q}_y = [q_{N+1},q_{N+2},\cdots,q_{2N}]^T, \quad  {\bf U} = [u_1, u_2,\cdots, u_N]^T
+\end{equation*}
+
+then the formulation \eqref{localsolver} equivalent to the following linear systems
+\begin{equation}
+\label{locallinearsys}
+\begin{split}
+\mathbb{M}  {\bf Q}_x &=  \mathbb{C}_x  {\bf U}\\
+\mathbb{M}  {\bf Q}_y &=  \mathbb{C}_y  {\bf U}\\
+ \mathbb{C}_x^T  {\bf Q}_x + \mathbb{C}_y^T  {\bf Q}_y  + \mathbb{N} &= {\bf F}
+\end{split}
+\end{equation}
+or
+\begin{equation*}
+\Bigg(
+  \begin{matrix}
+  -\mathbb{M}     &  {\bs 0}        & \mathbb{C}_x   \\
+   {\bs 0}&    -\mathbb{M}      &\mathbb{C}_y\\
+     \mathbb{C}_x^T & \mathbb{C}_y^T  & {\mathbb{N}}\\
+  \end{matrix}
+  \Bigg)
+\Bigg(
+  \begin{matrix}
+  {\bf Q}_x \\
+  {\bf Q}_y \\
+  {\bf U}
+  \end{matrix}
+  \Bigg)
+  {=}
+\Bigg(
+  \begin{matrix}
+  {\bf 0} \\
+  {\bf 0} \\
+  {\bf F}
+  \end{matrix}
+  \Bigg)
+\end{equation*}
+
+or the following form
+\begin{equation*}
+  \Big( \mathbb{C}_x^T  \mathbb{M}^{-1}  \mathbb{C}_x + \mathbb{C}_y^T   \mathbb{M}^{-1} \mathbb{C}_y  +\mathbb{N}  \Big)  {\bf U}= {\bf F}
+\end{equation*}
+
+
+
+\section{Numerical Test:}
+Let $\gamma(x)=1.0, \;\beta = e^{x+y},\; \Omega = [0,1]^2$, and choose exact smooth solution
+\begin{equation}
+U(x)=\cos(\pi r^2),\quad r=\sqrt{(x^2+y^2)}
+\end{equation}
+Then
+\begin{equation}
+f = \Big( 2\pi(x+y+2)\sin(\pi r^2)+4\pi^2r^2\cos(\pi r^2) \Big)e^{x+y} + \cos(\pi r^2)
+\end{equation}
+and the other one exact nonsmooth solution
+\begin{equation}
+U(x)=r^5 ,\quad r=\sqrt{(x+y)}
+\end{equation}
+Then
+\begin{equation}
+f = -\Big(  5r^3 + \frac{15}{2}r  \Big)e^{x+y} + r^5
+\end{equation}
+
+
+
+
+
+\end{document}

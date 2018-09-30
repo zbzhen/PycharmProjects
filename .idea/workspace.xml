@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/pyGrid2D/IGrid2D.py" description="    # def f1(x):&#10;    #     # r = x[0]*x[0]+x[1]*x[..." line="175" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32b39632-6f64-472f-8e29-171d77d87bf2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pythonCodes/HDG3D/mapping/mapping.py" afterPath="$PROJECT_DIR$/pythonCodes/HDG3D/mapping/mapping.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pythonCodes/HDG3D/mapping/sameplane.py" afterPath="$PROJECT_DIR$/pythonCodes/HDG3D/mapping/sameplane.py" />
+    </list>
+    <ignored path="PycharmProjects.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PycharmProjects$exm1.coverage" NAME="exm1 Coverage Results" MODIFIED="1535442268918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3scrapy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Tcube.coverage" NAME="Tcube Coverage Results" MODIFIED="1533895438948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D/3D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$uhuhhat.coverage" NAME="uhuhhat Coverage Results" MODIFIED="1526482262999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SHDG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$HU.coverage" NAME="HU Coverage Results" MODIFIED="1520615688101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$femdiffusionVector2dT_test.coverage" NAME="femdiffusionVector2dT_test Coverage Results" MODIFIED="1532588534823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中科院暑期学校/femdiffusion2dT" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1525172186620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mathtex.coverage" NAME="mathtex Coverage Results" MODIFIED="1530946358268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlibex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hcg2dwithbeta.coverage" NAME="hcg2dwithbeta Coverage Results" MODIFIED="1530354774933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HCG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$qr1.coverage" NAME="qr1 Coverage Results" MODIFIED="1531235639979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QR" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$readpng_simplify.coverage" NAME="readpng_simplify Coverage Results" MODIFIED="1526982409075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SHDG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$arrarow.coverage" NAME="arrarow Coverage Results" MODIFIED="1530942480863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlibex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$meshing.coverage" NAME="meshing Coverage Results" MODIFIED="1525959057686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$cube.coverage" NAME="cube Coverage Results" MODIFIED="1525363135342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/diffusion" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$readdot.coverage" NAME="readdot Coverage Results" MODIFIED="1529893524241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphviz" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$IGrid2D.coverage" NAME="IGrid2D Coverage Results" MODIFIED="1525183992191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyGrid2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$readpng__1_.coverage" NAME="readpng (1) Coverage Results" MODIFIED="1528216344751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$combinePdfs.coverage" NAME="combinePdfs Coverage Results" MODIFIED="1528391838531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$its2D_1.coverage" NAME="its2D_1 Coverage Results" MODIFIED="1525934361032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/linear_elasticity" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$DuffyUadd_1.coverage" NAME="DuffyUadd_1 Coverage Results" MODIFIED="1520616074495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$link1d__1_.coverage" NAME="link1d (1) Coverage Results" MODIFIED="1523934762200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feonexmples/examples/elements-introduction/link1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1524704930097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/python_installer/PythonMagick-master/PythonMagick" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mri.coverage" NAME="mri Coverage Results" MODIFIED="1524708097334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$cubemapping2.coverage" NAME="cubemapping2 Coverage Results" MODIFIED="1533907658769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D/3D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mayaviexmp1.coverage" NAME="mayaviexmp1 Coverage Results" MODIFIED="1525664493851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ee1.coverage" NAME="ee1 Coverage Results" MODIFIED="1525277838214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$exmp2.coverage" NAME="exmp2 Coverage Results" MODIFIED="1530949421763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphviz" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tvtk_segmentation.coverage" NAME="tvtk_segmentation Coverage Results" MODIFIED="1524708165783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sameplane.coverage" NAME="sameplane Coverage Results" MODIFIED="1537781210803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D/mapping" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_triangle.coverage" NAME="test_triangle Coverage Results" MODIFIED="1523884933120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_scg2d.coverage" NAME="test_scg2d Coverage Results" MODIFIED="1530354536094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function/SCG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mv7.coverage" NAME="mv7 Coverage Results" MODIFIED="1524705167066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$comfig.coverage" NAME="comfig Coverage Results" MODIFIED="1525436796411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$fuction.coverage" NAME="fuction Coverage Results" MODIFIED="1515773846333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fuction" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$water1.coverage" NAME="water1 Coverage Results" MODIFIED="1529389833708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_triangle_refine.coverage" NAME="test_triangle_refine Coverage Results" MODIFIED="1532013015420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$triangle_ele_new_b.coverage" NAME="triangle_ele_new_b Coverage Results" MODIFIED="1518660081873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/T_mesh" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mv5.coverage" NAME="mv5 Coverage Results" MODIFIED="1524705026252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1537350125409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Deep-Image-Matting-master" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$triangle.coverage" NAME="triangle Coverage Results" MODIFIED="1523934739038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feonexmples/examples/matrix derivation/triangle" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$trial.coverage" NAME="trial Coverage Results" MODIFIED="1517383515588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mv2.coverage" NAME="mv2 Coverage Results" MODIFIED="1535196536773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mayaviunstructedgrid.coverage" NAME="mayaviunstructedgrid Coverage Results" MODIFIED="1525664517307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$exmpl3.coverage" NAME="exmpl3 Coverage Results" MODIFIED="1529898235468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphviz" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hyperbolic1d__1_.coverage" NAME="hyperbolic1d (1) Coverage Results" MODIFIED="1532700206393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/2018中科院暑期学校资料/个人作业/pythoncodes/hyperbolic1d" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$timetest.coverage" NAME="timetest Coverage Results" MODIFIED="1519214702764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyGrid2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$22.coverage" NAME="22 Coverage Results" MODIFIED="1518076427842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HDG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_hdg2dT.coverage" NAME="test_hdg2dT Coverage Results" MODIFIED="1526313494799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HDG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pdfToPng1.coverage" NAME="pdfToPng1 Coverage Results" MODIFIED="1528266641079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$222.coverage" NAME="222 Coverage Results" MODIFIED="1525278648059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$2016.coverage" NAME="山东2016 Coverage Results" MODIFIED="1533124678679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/jiaoxue" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$time_poisson.coverage" NAME="time_poisson Coverage Results" MODIFIED="1523884801411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/diffusion" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$nico_mesh.coverage" NAME="nico_mesh Coverage Results" MODIFIED="1523970888356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$HU_2.coverage" NAME="HU_2 Coverage Results" MODIFIED="1520616235190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$defig.coverage" NAME="defig Coverage Results" MODIFIED="1525436090017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$path.coverage" NAME="path Coverage Results" MODIFIED="1528421927638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Tcubemapping2.coverage" NAME="Tcubemapping2 Coverage Results" MODIFIED="1533950779884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D/3D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pdfToPng.coverage" NAME="pdfToPng Coverage Results" MODIFIED="1528266677412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Grid2D__1_.coverage" NAME="Grid2D (1) Coverage Results" MODIFIED="1525183306536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_exmple/read_grid2Ddatfile_plot_funciton" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$thermo_elasticity_ess.coverage" NAME="thermo_elasticity_ess Coverage Results" MODIFIED="1525363201822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/multi_physics" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$testT.coverage" NAME="testT Coverage Results" MODIFIED="1537532523005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyGrid2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$DuffyUadd.coverage" NAME="DuffyUadd Coverage Results" MODIFIED="1525181730591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_exmple/error_order" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$parabox2d.coverage" NAME="parabox2d Coverage Results" MODIFIED="1533892663506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D/3D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$HU_1.coverage" NAME="HU_1 Coverage Results" MODIFIED="1520615661859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mv3.coverage" NAME="mv3 Coverage Results" MODIFIED="1524659284272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$biot.coverage" NAME="biot Coverage Results" MODIFIED="1523932703662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/multi_physics" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Grid2D_1.coverage" NAME="Grid2D_1 Coverage Results" MODIFIED="1519380171467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyGrid2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$error2D_circle2.coverage" NAME="error2D_circle2 Coverage Results" MODIFIED="1522072511601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/重要的东西/biyelunwenKFY20180326/IHDGpython_error/IHDGpython_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tupian.coverage" NAME="tupian Coverage Results" MODIFIED="1537520361776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3scrapy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$jacobian.coverage" NAME="jacobian Coverage Results" MODIFIED="1537778717881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D/mapping" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pngTogif.coverage" NAME="pngTogif Coverage Results" MODIFIED="1528216480802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hcg2d.coverage" NAME="hcg2d Coverage Results" MODIFIED="1530344976902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HCG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$fancy.coverage" NAME="fancy Coverage Results" MODIFIED="1530943395230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlibex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$newpy4dplot.coverage" NAME="newpy4dplot Coverage Results" MODIFIED="1530503470028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d/py4dplot" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$triangle_ele_new_i.coverage" NAME="triangle_ele_new_i Coverage Results" MODIFIED="1518659614446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/T_mesh" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$poisson_short_syntax.coverage" NAME="poisson_short_syntax Coverage Results" MODIFIED="1525936089566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/diffusion" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$DuffyU.coverage" NAME="DuffyU Coverage Results" MODIFIED="1525181646258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_exmple/error_order" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$write_dolfin.coverage" NAME="write_dolfin Coverage Results" MODIFIED="1523884888251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Grid2D_1__1_.coverage" NAME="Grid2D_1 (1) Coverage Results" MODIFIED="1519352306879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyGrid2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$HUadd.coverage" NAME="HUadd Coverage Results" MODIFIED="1520615656202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$defig2.coverage" NAME="defig2 Coverage Results" MODIFIED="1525436627652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mattest.coverage" NAME="mattest Coverage Results" MODIFIED="1537671583048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D/mapping3d" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$BUG.coverage" NAME="BUG Coverage Results" MODIFIED="1530201699021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$TTheta3Dsymmetrical.coverage" NAME="TTheta3Dsymmetrical Coverage Results" MODIFIED="1530201797893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$poisson_functions.coverage" NAME="poisson_functions Coverage Results" MODIFIED="1525363171483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/diffusion" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Grid2D.coverage" NAME="Grid2D Coverage Results" MODIFIED="1537519323561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyGrid2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_tri_simple_square.coverage" NAME="test_tri_simple_square Coverage Results" MODIFIED="1523971064819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$jw_mesh_examples.coverage" NAME="jw_mesh_examples Coverage Results" MODIFIED="1524298588544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$HUadd_2.coverage" NAME="HUadd_2 Coverage Results" MODIFIED="1520616328006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_tri_quadratic.coverage" NAME="test_tri_quadratic Coverage Results" MODIFIED="1523971024448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_hcg2dwithbeta.coverage" NAME="test_hcg2dwithbeta Coverage Results" MODIFIED="1530453985740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HCG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$femNS2dT_test.coverage" NAME="femNS2dT_test Coverage Results" MODIFIED="1532847064414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中科院暑期学校/femNS2dT" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$RTF_2.coverage" NAME="RTF_2 Coverage Results" MODIFIED="1520616426106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gifTopng.coverage" NAME="gifTopng Coverage Results" MODIFIED="1528216435532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mathbbA_inverse.coverage" NAME="mathbbA_inverse Coverage Results" MODIFIED="1520160032489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyGrid2D/interface2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ja.coverage" NAME="ja Coverage Results" MODIFIED="1530180531998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$error2D_oval0.coverage" NAME="error2D_oval0 Coverage Results" MODIFIED="1522072650285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/重要的东西/biyelunwenKFY20180326/IHDGpython_error/IHDGpython_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$py4dplot.coverage" NAME="py4dplot Coverage Results" MODIFIED="1531728451019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d/py4dplot" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pand.coverage" NAME="pand绘制直方图 Coverage Results" MODIFIED="1537326449719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/成绩" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$RTF.coverage" NAME="RTF Coverage Results" MODIFIED="1520615624622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$longfigToPdf.coverage" NAME="longfigToPdf Coverage Results" MODIFIED="1528430413749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ploterror.coverage" NAME="ploterror Coverage Results" MODIFIED="1532363318636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中科院暑期学校/femdiffusion2dT" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hdg2dT.coverage" NAME="hdg2dT Coverage Results" MODIFIED="1520160115420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HDG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$surface_from_irregular_data.coverage" NAME="surface_from_irregular_data Coverage Results" MODIFIED="1524708232399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$2015.coverage" NAME="河北2015 Coverage Results" MODIFIED="1533124380427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/jiaoxue" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demo.coverage" NAME="demo Coverage Results" MODIFIED="1523970779930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Tcube2d.coverage" NAME="Tcube2d Coverage Results" MODIFIED="1533896467473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D/3D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$readfile.coverage" NAME="readfile Coverage Results" MODIFIED="1529397200801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/readfile" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$1.coverage" NAME="分段1 Coverage Results" MODIFIED="1537958319154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/教学" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ex.coverage" NAME="ex Coverage Results" MODIFIED="1526372761425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SHDG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$chengxu.coverage" NAME="chengxu Coverage Results" MODIFIED="1530949505036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphviz" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$acoustics3d.coverage" NAME="acoustics3d Coverage Results" MODIFIED="1525363187622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/acoustics" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$linear_elastic_interactive.coverage" NAME="linear_elastic_interactive Coverage Results" MODIFIED="1525946684410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/linear_elasticity" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$laplace_1d.coverage" NAME="laplace_1d Coverage Results" MODIFIED="1525934072063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/diffusion" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$elastic_contact_planes.coverage" NAME="elastic_contact_planes Coverage Results" MODIFIED="1525945145141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/linear_elasticity" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sfepy_run.coverage" NAME="sfepy-run Coverage Results" MODIFIED="1523710844714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27/Lib/site-packages/sfepy-master" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$femdiffusion2dT_test.coverage" NAME="femdiffusion2dT_test Coverage Results" MODIFIED="1532700097051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/2018中科院暑期学校资料/个人作业/pythoncodes/femdiffusion2dT" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$323.coverage" NAME="323 Coverage Results" MODIFIED="1518834312481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_hdg2d.coverage" NAME="test_hdg2d Coverage Results" MODIFIED="1526313909000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HDG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$exmp3.coverage" NAME="exmp3 Coverage Results" MODIFIED="1529882920653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sklearn" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$xxx.coverage" NAME="xxx Coverage Results" MODIFIED="1537520453751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3scrapy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pygridRAdd.coverage" NAME="pygridRAdd Coverage Results" MODIFIED="1537532528291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testmesh" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$elebase.coverage" NAME="elebase Coverage Results" MODIFIED="1518659378987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/T_mesh" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mv6.coverage" NAME="mv6 Coverage Results" MODIFIED="1524705154561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mapping.coverage" NAME="mapping Coverage Results" MODIFIED="1537688916474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D/mapping3d" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$RTFadd_2.coverage" NAME="RTFadd_2 Coverage Results" MODIFIED="1520616506398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$scg2d.coverage" NAME="scg2d Coverage Results" MODIFIED="1530540315525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tri_boundary_markers.coverage" NAME="tri-boundary-markers Coverage Results" MODIFIED="1524288327496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$2dmayavi.coverage" NAME="2dmayavi Coverage Results" MODIFIED="1524276826039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/homework" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pngs.coverage" NAME="pngs Coverage Results" MODIFIED="1528350764768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/togetherimages" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$triangle_ele_new.coverage" NAME="triangle_ele_new Coverage Results" MODIFIED="1518674816854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/T_mesh" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$PlotGrid2D.coverage" NAME="PlotGrid2D Coverage Results" MODIFIED="1537531874372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyGrid2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$elastodynamic.coverage" NAME="elastodynamic Coverage Results" MODIFIED="1525944457249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/linear_elasticity" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$box_in_box.coverage" NAME="box-in-box Coverage Results" MODIFIED="1525184763329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tesst.coverage" NAME="tesst Coverage Results" MODIFIED="1532690390869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中科院暑期学校/hyperbolic1d" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$link1d.coverage" NAME="link1d Coverage Results" MODIFIED="1523967097538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feonexmples/examples/matrix derivation/link" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$polydata.coverage" NAME="polydata Coverage Results" MODIFIED="1531728376240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d/py4dplot" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$.coverage" NAME="分段函数模板 Coverage Results" MODIFIED="1537957712094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/教学" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$exmp1__1_.coverage" NAME="exmp1 (1) Coverage Results" MODIFIED="1529852738642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sklearn" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_triangle_with_specified_points.coverage" NAME="test_triangle_with_specified_points Coverage Results" MODIFIED="1525185048324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$figinserttxt.coverage" NAME="figinserttxt Coverage Results" MODIFIED="1526450762265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SHDG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$zbz1.coverage" NAME="zbz正方形1 Coverage Results" MODIFIED="1518659513106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/三角形HDG" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_tri_pml.coverage" NAME="test_tri_pml Coverage Results" MODIFIED="1523971017306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tet_size_control.coverage" NAME="tet-size-control Coverage Results" MODIFIED="1523971088391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$band_gaps.coverage" NAME="band_gaps Coverage Results" MODIFIED="1525363210369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/phononic" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$boron.coverage" NAME="boron Coverage Results" MODIFIED="1525363243454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/quantum" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$exmp1.coverage" NAME="exmp1 Coverage Results" MODIFIED="1537518368278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sklearn" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$femdiffusion2dT.coverage" NAME="femdiffusion2dT Coverage Results" MODIFIED="1532332994682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中科院暑期学校/femdiffusion2dT" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1526375260494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/PlotHDGSketch" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1537341524181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/veen" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_ball.coverage" NAME="test_ball Coverage Results" MODIFIED="1525185260090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$exm2.coverage" NAME="exm2 Coverage Results" MODIFIED="1537520347261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3scrapy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$custom_colormap.coverage" NAME="custom_colormap Coverage Results" MODIFIED="1524708310368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$acoustics.coverage" NAME="acoustics Coverage Results" MODIFIED="1525934083192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/acoustics" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$cond.coverage" NAME="cond Coverage Results" MODIFIED="1530540309410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$_1_Intergral_8.coverage" NAME="_1_Intergral_8 Coverage Results" MODIFIED="1517319012387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function/functionDoc" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$RTFadd_1.coverage" NAME="RTFadd_1 Coverage Results" MODIFIED="1520615599412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3dja.coverage" NAME="3dja Coverage Results" MODIFIED="1530204667992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$plotting_many_lines.coverage" NAME="plotting_many_lines Coverage Results" MODIFIED="1524710040783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hydrogen.coverage" NAME="hydrogen Coverage Results" MODIFIED="1525934098446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/quantum" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$fanc2.coverage" NAME="fanc2 Coverage Results" MODIFIED="1530943958993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlibex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mvtest1.coverage" NAME="mvtest1 Coverage Results" MODIFIED="1515637280295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Legendre.coverage" NAME="Legendre Coverage Results" MODIFIED="1516959054658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$11.coverage" NAME="11 Coverage Results" MODIFIED="1517124764494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/justtest" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$longPng.coverage" NAME="longPng Coverage Results" MODIFIED="1528351718084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pdfToLongPng.coverage" NAME="pdfToLongPng Coverage Results" MODIFIED="1528429351574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$DuffyUadd_2.coverage" NAME="DuffyUadd_2 Coverage Results" MODIFIED="1520616060012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$2dja.coverage" NAME="2dja Coverage Results" MODIFIED="1530269922810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D/3D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$fancself.coverage" NAME="fancself Coverage Results" MODIFIED="1530944489528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlibex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$elastic_contact_sphere.coverage" NAME="elastic_contact_sphere Coverage Results" MODIFIED="1525945188750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/linear_elasticity" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$function__1_.coverage" NAME="function (1) Coverage Results" MODIFIED="1516951349972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$fem1dbase.coverage" NAME="fem1dbase Coverage Results" MODIFIED="1525181194418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/exmpleforfem1D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$femNS2dT_test__1_.coverage" NAME="femNS2dT_test (1) Coverage Results" MODIFIED="1532700117321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/2018中科院暑期学校资料/个人作业/pythoncodes/femNS2dT" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hcg2dold.coverage" NAME="hcg2dold Coverage Results" MODIFIED="1518960203256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HCG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$exmp4.coverage" NAME="exmp4 Coverage Results" MODIFIED="1529883274744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sklearn" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$IGrid2D__1_.coverage" NAME="IGrid2D (1) Coverage Results" MODIFIED="1525184303615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_exmple/read_grid2Ddatfile_plot_funciton" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$2.coverage" NAME="绘制箭头2 Coverage Results" MODIFIED="1535367739794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/教学" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$navier_stokes2d.coverage" NAME="navier_stokes2d Coverage Results" MODIFIED="1523884831792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/navier_stokes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$324.coverage" NAME="324 Coverage Results" MODIFIED="1531812924094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QR" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pdfTopng3.coverage" NAME="pdfTopng3 Coverage Results" MODIFIED="1528266705787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$femdiffusionVector2dT_test__1_.coverage" NAME="femdiffusionVector2dT_test (1) Coverage Results" MODIFIED="1532565876121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythoninstaller/pythoncodes/中科院暑期学校/femdiffusion2dT" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$xx.coverage" NAME="xx Coverage Results" MODIFIED="1537520381960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3scrapy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$error2D_smallmoon1.coverage" NAME="error2D_smallmoon1 Coverage Results" MODIFIED="1522072711632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/重要的东西/biyelunwenKFY20180326/IHDGpython_error/IHDGpython_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$subgraph.coverage" NAME="subgraph Coverage Results" MODIFIED="1531238863560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphviz" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$DuffyU_2.coverage" NAME="DuffyU_2 Coverage Results" MODIFIED="1520615907232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$linear_elastic.coverage" NAME="linear_elastic Coverage Results" MODIFIED="1523866861552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/linear_elasticity" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3.coverage" NAME="圆界面3 Coverage Results" MODIFIED="1521433868218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyGrid2D/interface2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$HUadd_1.coverage" NAME="HUadd_1 Coverage Results" MODIFIED="1520615647791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$modal_analysis.coverage" NAME="modal_analysis Coverage Results" MODIFIED="1525945094121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/linear_elasticity" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1524709330769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$multipdf.coverage" NAME="multipdf Coverage Results" MODIFIED="1528390829785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hdg2d.coverage" NAME="hdg2d Coverage Results" MODIFIED="1519536715620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HDG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pdfToLongPngOneStep.coverage" NAME="pdfToLongPngOneStep Coverage Results" MODIFIED="1528421753249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tri_refinement_spec.coverage" NAME="tri-refinement-spec Coverage Results" MODIFIED="1532013029353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$readpng.coverage" NAME="readpng Coverage Results" MODIFIED="1530893773260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$interp.coverage" NAME="interp Coverage Results" MODIFIED="1532309355569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$DuffyU_1.coverage" NAME="DuffyU_1 Coverage Results" MODIFIED="1525181655315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_exmple/error_order" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$getnopRgrid_3.coverage" NAME="getnopRgrid_3 Coverage Results" MODIFIED="1525406932513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testmesh" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mv8.coverage" NAME="mv8 Coverage Results" MODIFIED="1524705216001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$function.coverage" NAME="function Coverage Results" MODIFIED="1531238966874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphviz" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mapping__1_.coverage" NAME="mapping (1) Coverage Results" MODIFIED="1537758090754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D/mapping" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$SingleYoungsMaterialInterface.coverage" NAME="SingleYoungsMaterialInterface Coverage Results" MODIFIED="1524293336790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/python_installer/VTK-8.1.0/Examples/Graphics/Python" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$EX4.coverage" NAME="EX4 Coverage Results" MODIFIED="1524708657321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$well.coverage" NAME="well Coverage Results" MODIFIED="1525363342214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/quantum" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$poisson.coverage" NAME="poisson Coverage Results" MODIFIED="1523884767978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/diffusion" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mv4.coverage" NAME="mv4 Coverage Results" MODIFIED="1524659293375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sancihanshu.coverage" NAME="sancihanshu Coverage Results" MODIFIED="1517977461293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/jiaoxue" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sampletest.coverage" NAME="sampletest Coverage Results" MODIFIED="1514036859718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$airfoil3d.coverage" NAME="airfoil3d Coverage Results" MODIFIED="1525185305923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$savefigtest.coverage" NAME="savefigtest Coverage Results" MODIFIED="1522132564845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function/functionDoc" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$plotK1K2.coverage" NAME="plotK1K2 Coverage Results" MODIFIED="1532264068551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中科院暑期学校" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_tetgen.coverage" NAME="test_tetgen Coverage Results" MODIFIED="1525185181299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$fem1dchazhi.coverage" NAME="fem1dchazhi Coverage Results" MODIFIED="1525181236875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/exmpleforfem1D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$plotannow.coverage" NAME="plotannow Coverage Results" MODIFIED="1526454348209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SHDG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$shell10x_cantilever_interactive.coverage" NAME="shell10x_cantilever_interactive Coverage Results" MODIFIED="1525945800900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/linear_elasticity" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$jw_meshtools.coverage" NAME="jw_meshtools Coverage Results" MODIFIED="1523934414675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pingjie.coverage" NAME="pingjie Coverage Results" MODIFIED="1528275412163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$RTF_1.coverage" NAME="RTF_1 Coverage Results" MODIFIED="1520615631136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$plot3d.coverage" NAME="plot3d Coverage Results" MODIFIED="1530941721857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlibex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$navier_stokes.coverage" NAME="navier_stokes Coverage Results" MODIFIED="1525934036167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/navier_stokes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hyperbolic1d.coverage" NAME="hyperbolic1d Coverage Results" MODIFIED="1532767776607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中科院暑期学校/hyperbolic1d" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$exmp2__1_.coverage" NAME="exmp2 (1) Coverage Results" MODIFIED="1529882789392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sklearn" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$setup.coverage" NAME="setup Coverage Results" MODIFIED="1523710811563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27/Lib/site-packages/sfepy-master" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$chemistry.coverage" NAME="chemistry Coverage Results" MODIFIED="1524709672430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spy.coverage" NAME="spy Coverage Results" MODIFIED="1538205995542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matrix" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$functionQuad.coverage" NAME="functionQuad Coverage Results" MODIFIED="1531125334673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mesh.coverage" NAME="mesh Coverage Results" MODIFIED="1525251911305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feonexmples/examples/mesh" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_hcg2d.coverage" NAME="test_hcg2d Coverage Results" MODIFIED="1530345144755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HCG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_scg2d__1_.coverage" NAME="test_scg2d (1) Coverage Results" MODIFIED="1530891513116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCG2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pdfToPng2.coverage" NAME="pdfToPng2 Coverage Results" MODIFIED="1528266913375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1537531777310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyGrid2D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$RTFadd.coverage" NAME="RTFadd Coverage Results" MODIFIED="1520615584324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mv1.coverage" NAME="mv1 Coverage Results" MODIFIED="1537519437193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$agraph.coverage" NAME="agraph Coverage Results" MODIFIED="1529817675933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27/Lib/site-packages/pygraphviz" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$useful.coverage" NAME="useful Coverage Results" MODIFIED="1526444104125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$TTheta3D.coverage" NAME="TTheta3D Coverage Results" MODIFIED="1537683583405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mesh_ply.coverage" NAME="mesh_ply Coverage Results" MODIFIED="1523970825026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$box2d.coverage" NAME="box2d Coverage Results" MODIFIED="1533892617819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D/3D" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PycharmProjects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Function/functionQuad.py" />
+        <option value="$PROJECT_DIR$/中科院暑期学校/femNS2dT/femNS2dT.py" />
+        <option value="$PROJECT_DIR$/中科院暑期学校/femNS2dT/femNS2dT_test.py" />
+        <option value="$PROJECT_DIR$/pythonCodes/HDG3D/3D/parabox2d.py" />
+        <option value="$PROJECT_DIR$/pythonCodes/HDG3D/3D/box2d.py" />
+        <option value="$PROJECT_DIR$/pythonCodes/HDG3D/3D/Tcube.py" />
+        <option value="$PROJECT_DIR$/pythonCodes/HDG3D/3D/Tcube2d.py" />
+        <option value="$PROJECT_DIR$/pythonCodes/HDG3D/3D/cubemapping2.py" />
+        <option value="$PROJECT_DIR$/pythonCodes/HDG3D/3D/Tcubemapping2.py" />
+        <option value="$PROJECT_DIR$/moviepy/mv1.py" />
+        <option value="$PROJECT_DIR$/PngGifPdf/longfigToPdf.py" />
+        <option value="$PROJECT_DIR$/moviepy/教学/临时文件做抛物线动图.py" />
+        <option value="$PROJECT_DIR$/moviepy/教学/绘制箭头.py" />
+        <option value="$PROJECT_DIR$/moviepy/教学/绘制箭头2.py" />
+        <option value="$PROJECT_DIR$/moviepy/教学/坐标轴和箭头.py" />
+        <option value="$PROJECT_DIR$/moviepy/教学/抛物线.py" />
+        <option value="$PROJECT_DIR$/py3scrapy/exm1.py" />
+        <option value="$PROJECT_DIR$/py3scrapy/exm2.py" />
+        <option value="$PROJECT_DIR$/py3scrapy/xx.py" />
+        <option value="$PROJECT_DIR$/py3scrapy/tupian.py" />
+        <option value="$PROJECT_DIR$/py3scrapy/xxx.py" />
+        <option value="$PROJECT_DIR$/moviepy/成绩/求员能力图谱.py" />
+        <option value="$PROJECT_DIR$/moviepy/成绩/球员能力图谱.py" />
+        <option value="$PROJECT_DIR$/moviepy/成绩/直方图.py" />
+        <option value="$PROJECT_DIR$/moviepy/成绩/饼图.py" />
+        <option value="$PROJECT_DIR$/moviepy/成绩/能力图谱.py" />
+        <option value="$PROJECT_DIR$/moviepy/成绩/直方图与饼图.py" />
+        <option value="$PROJECT_DIR$/moviepy/教学/二次函数.py" />
+        <option value="$PROJECT_DIR$/moviepy/成绩/weight.txt" />
+        <option value="$PROJECT_DIR$/moviepy/成绩/谱图与饼图.py" />
+        <option value="$PROJECT_DIR$/moviepy/成绩/随机数正态分布.py" />
+        <option value="$PROJECT_DIR$/图片处理/ex1.py" />
+        <option value="D:/MyProjeict/test/这是一个测试的python文档.py" />
+        <option value="D:/MyProjeict/test/README.md" />
+        <option value="$PROJECT_DIR$/moviepy/veen/ex1.py" />
+        <option value="$PROJECT_DIR$/Deep-Image-Matting-master/test.py" />
+        <option value="$PROJECT_DIR$/pyGrid2D/Grid2D.py" />
+        <option value="$PROJECT_DIR$/pyGrid2D/testT.py" />
+        <option value="$PROJECT_DIR$/testmesh/pygridRAdd.py" />
+        <option value="$PROJECT_DIR$/pythonCodes/HDG3D/mapping3d/mattest.py" />
+        <option value="$PROJECT_DIR$/pythonCodes/HDG3D/mapping3d/mapping.py" />
+        <option value="$PROJECT_DIR$/pythonCodes/HDG3D/mapping3d/sameplane.py" />
+        <option value="$PROJECT_DIR$/pythonCodes/HDG3D/mapping/mapping.py" />
+        <option value="$PROJECT_DIR$/pythonCodes/HDG3D/mapping/jacobian.py" />
+        <option value="$PROJECT_DIR$/pythonCodes/HDG3D/mapping/sameplane.py" />
+        <option value="$PROJECT_DIR$/moviepy/成绩/pand绘制直方图.py" />
+        <option value="$PROJECT_DIR$/moviepy/教学/临时文件做二面角.py" />
+        <option value="$PROJECT_DIR$/moviepy/成绩/学生成绩直方图.py" />
+        <option value="$PROJECT_DIR$/moviepy/教学/分段函数模板.py" />
+        <option value="$PROJECT_DIR$/moviepy/教学/分段1.py" />
+        <option value="$PROJECT_DIR$/matrix/spy.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="matrix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="fileTemplates" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="SearchEverywhereHistoryKey" value="s&#9;null&#9;null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/moviepy" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\testmesh\rectTrembled" />
+      <recent name="D:\PycharmProjects\moviepy\成绩" />
+      <recent name="D:\PycharmProjects\pythonCodes\HDG3D\3D" />
+      <recent name="D:\PycharmProjects\plot4d\quiver" />
+      <recent name="D:\PycharmProjects\graphviz" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects" />
+      <recent name="D:\PycharmProjects\PngGifPdf" />
+      <recent name="D:\PycharmProjects\pyGrid2D" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.spy">
+    <configuration default="false" name="学生成绩直方图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/moviepy/成绩" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moviepy/成绩/学生成绩直方图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="二次函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/moviepy/教学" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moviepy/教学/二次函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="分段函数模板" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/moviepy/教学" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moviepy/教学/分段函数模板.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="分段1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/moviepy/教学" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moviepy/教学/分段1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="spy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matrix" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix/spy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyGrid2D" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyGrid2D/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.qr1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.学生成绩直方图" />
+      <item index="3" class="java.lang.String" itemvalue="Python.二次函数" />
+      <item index="4" class="java.lang.String" itemvalue="Python.分段函数模板" />
+      <item index="5" class="java.lang.String" itemvalue="Python.分段1" />
+      <item index="6" class="java.lang.String" itemvalue="Python.spy" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.spy" />
+        <item index="1" class="java.lang.String" itemvalue="Python.分段1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.分段函数模板" />
+        <item index="3" class="java.lang.String" itemvalue="Python.二次函数" />
+        <item index="4" class="java.lang.String" itemvalue="Python.学生成绩直方图" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32b39632-6f64-472f-8e29-171d77d87bf2" name="Default" comment="" />
+      <created>1513827881727</created>
+      <option name="number" value="Default" />
+      <updated>1513827881727</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27818447" sideWeight="0.49885058" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38147566" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5905512" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43149605" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2942899" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43171114" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50392467" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39717427" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/moviepy/mv8.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/pythonCodes/HDG3D/3dja.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/sklearn/exmp1.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="62" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/moviepy/教学/临时文件做抛物线动图.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3865814" vertical-offset="747" max-vertical-offset="1060">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sklearn/exmp1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="800">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sklearn/exmp2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="94" max-vertical-offset="540">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PngGifPdf/gifTopng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1840">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PngGifPdf/longfigToPdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1780">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PngGifPdf/multipdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1660">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PngGifPdf/path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="460">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PngGifPdf/pdfToLongPng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1340">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PngGifPdf/pdfToLongPngOneStep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1140">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PngGifPdf/pdfToPng2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="820">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PngGifPdf/pingjie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PngGifPdf/readpng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="940">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PngGifPdf/pngTogif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32894737" vertical-offset="0" max-vertical-offset="608">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/mv1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.71779144" vertical-offset="234" max-vertical-offset="560">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3scrapy/exm2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30674848" vertical-offset="0" max-vertical-offset="326">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3scrapy/tupian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="760">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3scrapy/xx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="267" max-vertical-offset="1720">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplotlibex/plot3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4723927" vertical-offset="480" max-vertical-offset="1040">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3scrapy/xxx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.72523963" vertical-offset="407" max-vertical-offset="720">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testmesh/AddDensity_1_newRT_dumbbell_mesh1.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.723927" vertical-offset="4800" max-vertical-offset="29960">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testmesh/rectTrembled/4times4_rectTrembled.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1440">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyGrid2D/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.258786" vertical-offset="1020" max-vertical-offset="2460">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyGrid2D/PlotGrid2D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.16564417" vertical-offset="54" max-vertical-offset="1460">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyGrid2D/testT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="354" max-vertical-offset="900">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="2" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testmesh/pygridRAdd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29411766" vertical-offset="6345" max-vertical-offset="6940">
+          <caret line="331" column="0" selection-start-line="331" selection-start-column="0" selection-end-line="331" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyGrid2D/Grid2D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33613446" vertical-offset="3820" max-vertical-offset="8260">
+          <caret line="201" column="0" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Function/mapping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3980">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SCG2D/cond.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCodes/HDG3D/mapping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCodes/HDG3D/jainverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="1180">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCodes/HDG3D/TTheta3D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="1340">
+          <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCodes/HDG3D/TTheta3Dsymmetrical.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1045" max-vertical-offset="1640">
+          <caret line="59" column="71" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCodes/HDG3D/ja.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="212" max-vertical-offset="1240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="21" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCodes/HDG3D/BUG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCodes/HDG3D/3dja.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1940">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCodes/HDG3D/mapping/jacobian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36134455" vertical-offset="365" max-vertical-offset="1020">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCodes/HDG3D/mapping/sameplane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.80263156" vertical-offset="912" max-vertical-offset="1520">
+          <caret line="71" column="15" selection-start-line="71" selection-start-column="15" selection-end-line="71" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCodes/HDG3D/mapping/mapping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49579832" vertical-offset="3505" max-vertical-offset="4100">
+          <caret line="190" column="24" selection-start-line="190" selection-start-column="24" selection-end-line="190" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片处理/ex1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.75757575" vertical-offset="300" max-vertical-offset="700">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/教学/临时文件做二面角.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16710183" vertical-offset="136" max-vertical-offset="1100">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/submitted version to numerical mathematics/python_plot_error/TSMCG2DDuffyU.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49375" vertical-offset="122" max-vertical-offset="1760">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/成绩/15班.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/成绩/7班.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/成绩/学生成绩直方图.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10084034" vertical-offset="300" max-vertical-offset="1080">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/成绩/pand绘制直方图.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3781513" vertical-offset="420" max-vertical-offset="1360">
+          <caret line="65" column="10" selection-start-line="43" selection-start-column="0" selection-end-line="65" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCodes/HDG3D/mapping/mattest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5276382" vertical-offset="110" max-vertical-offset="540">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/教学/二次函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4375" vertical-offset="160" max-vertical-offset="1280">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="58" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/教学/分段函数模板.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="185" max-vertical-offset="1280">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/教学/分段1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="232" max-vertical-offset="960">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7537538" vertical-offset="47489" max-vertical-offset="75680">
+          <caret line="2420" column="8" selection-start-line="2420" selection-start-column="8" selection-end-line="2420" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matrix/spy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7207207" vertical-offset="0" max-vertical-offset="380">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+digraph Tree {
+0 [label="X[1] <= 0.5000\ngini = 0.5\nsamples = 2", shape="box"] ;
+1 [label="gini = 0.0000\nsamples = 1\nvalue = [1. 0.]", shape="box"] ;
+0 -> 1 ;
+2 [label="gini = 0.0000\nsamples = 1\nvalue = [0. 1.]", shape="box"] ;
+0 -> 2 ;
+}

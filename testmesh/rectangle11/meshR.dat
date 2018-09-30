@@ -1,0 +1,20 @@
+# unstructured grid for a domain
+#
+# no. of nodes cells and boundaries
+4		1		1
+# BC
+0   4   4
+# node coordinates
+    -1     -1
+    1     -1
+    -1     1
+    1       1
+# element connectivity
+    1   2   4   3
+# bnodes
+    1       2
+    2       4
+    4       3
+    3       1
+
+

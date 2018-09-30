@@ -64,7 +64,7 @@ def mapping3D(a, b, c, d, e, f, g, h, case=0):
     left adhe, right bcgf;
     behind abfe, front dcgh.
     :param case:
-    :return: 2d transform Cube [-1,1]^3----> Hexahedron abcd-efgh
+    :return: 3d transform Cube [-1,1]^3----> Hexahedron abcd-efgh
     """
     def retmap(x):
         if case == 0:
@@ -98,6 +98,9 @@ def mapping3D(a, b, c, d, e, f, g, h, case=0):
             dh = mapping1D(d, h)(x[2])
             return mapping2D(ae, bf, cg, dh)([x[0], x[1]])
     return retmap
+
+
+
 
 def mapping3D_interpolation(xHat, p):
     v0 = -(xHat[0]-1)*(xHat[1]-1)*(xHat[2]-1)
