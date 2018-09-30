@@ -5,8 +5,102 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32b39632-6f64-472f-8e29-171d77d87bf2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pythonCodes/HDG3D/mapping/mapping.py" afterPath="$PROJECT_DIR$/pythonCodes/HDG3D/mapping/mapping.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pythonCodes/HDG3D/mapping/sameplane.py" afterPath="$PROJECT_DIR$/pythonCodes/HDG3D/mapping/sameplane.py" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\meshPyexamples\airfoil3d.vtk" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\meshPyexamples\triangles.dat" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\3Dplot\rose.pov" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\T_mesh\(null).-1454110549" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\T_mesh\(null).850771006" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\T_mesh\CGp2_11.zip" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\T_mesh\triangle_ele_new_i.zip" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\mv\sinc.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\mv\sinc_mpl.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\baidu.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\cat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\42.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\46.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\47.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\48.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\51.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\52.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\53.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\54.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\56.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\58.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\59.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\60.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\61.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\62.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\63.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\64.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\65.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\66.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\67.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\68.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\70.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\72.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\73.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\75.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\76.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\77.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\78.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\79.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\80.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\81.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\82.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\83.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\figs_866\9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\PycharmProjects\pythonCodes\pachong\img.jpg" afterPath="" />
     </list>
     <ignored path="PycharmProjects.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -269,7 +363,18 @@
     <favorites_list name="PycharmProjects" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="readpng.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PngGifPdf/readpng.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.57983196" vertical-offset="345" max-vertical-offset="940">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -780,11 +885,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27818447" sideWeight="0.49885058" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27818447" sideWeight="0.49885058" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38147566" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -849,13 +954,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/moviepy/教学/临时文件做抛物线动图.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3865814" vertical-offset="747" max-vertical-offset="1060">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sklearn/exmp1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="800">
@@ -923,13 +1021,6 @@
     <entry file="file://$PROJECT_DIR$/PngGifPdf/pingjie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PngGifPdf/readpng.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="940">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -1117,13 +1208,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/图片处理/ex1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.75757575" vertical-offset="300" max-vertical-offset="700">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/moviepy/教学/临时文件做二面角.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16710183" vertical-offset="136" max-vertical-offset="1100">
@@ -1201,6 +1285,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7207207" vertical-offset="0" max-vertical-offset="380">
           <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PngGifPdf/readpng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.57983196" vertical-offset="345" max-vertical-offset="940">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
