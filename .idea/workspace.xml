@@ -4,13 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/pyGrid2D/IGrid2D.py" description="    # def f1(x):&#10;    #     # r = x[0]*x[0]+x[1]*x[..." line="175" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b39632-6f64-472f-8e29-171d77d87bf2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moviepy/教学/ercihanshu.png" afterPath="$PROJECT_DIR$/moviepy/教学/ercihanshu.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pyGrid2D/interface2D/xiaoyueliang1.pdf" afterPath="$PROJECT_DIR$/pyGrid2D/interface2D/xiaoyueliang1.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plot4d/ex5.py" afterPath="$PROJECT_DIR$/plot4d/ex5.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plot4d/py4dplot/newpy4dplot.py" afterPath="$PROJECT_DIR$/plot4d/py4dplot/newpy4dplot.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="32b39632-6f64-472f-8e29-171d77d87bf2" name="Default" comment="" />
     <ignored path="PycharmProjects.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -998,7 +992,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
