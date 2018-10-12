@@ -1,0 +1,17 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Time    : 2018/10/8 19:45
+# @Author  : BingZhen Zhou
+# @contact : zbzhen@smail.hunnu.edu.cn
+# @File    : test3.py
+# @version : Python 2.7.6
+import numpy as np
+from enthought.mayavi import mlab
+
+x, y = np.ogrid[-2:2:20j, -2:2:20j]
+z = x * np.exp( - x**2 - y**2)
+
+pl = mlab.surf(x, y, z, warp_scale="auto")
+mlab.axes(xlabel='x', ylabel='y', zlabel='z')
+mlab.outline(pl)
+mlab.show()

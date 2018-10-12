@@ -20,10 +20,10 @@ Y = 2 / 3. * (cos(u) * sin(2 * v) -
         sqrt(2) * sin(u) * sin(v)) * cos(u) / (sqrt(2)
         - sin(2 * u) * sin(3 * v))
 Z = -sqrt(2) * cos(u) * cos(u) / (sqrt(2) - sin(2 * u) * sin(3 * v))
-S = sin(u+v)*0+0.2
+S = sin(u+v)
 
-# mlab.mesh(X, Y, Z, scalars=S, colormap='YlGnBu', )
-mlab.mesh(X, Y, Z, scalars=S)
+mlab.mesh(X, Y, Z, scalars=S, colormap='YlGnBu', )
+# mlab.mesh(X, Y, Z, scalars=S)
 
 # Nice view from the front
 # mlab.view(.0, - 5.0, 4)
