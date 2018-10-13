@@ -118,7 +118,7 @@ class FieldViewer(HasTraits):
         Frame(a[:4], a[4:]).plot()
         # spaceElement(a[0],a[2],a[4],a[6]).plotLine()
 
-        spaceElement(a[0],a[2],a[4],a[6]).plot(colormap="Spectral", opacity=self.contour)
+        spaceElement(a[0],a[2],a[6],a[4]).plot(colormap="Spectral", opacity=self.contour)
         ABC = spaceElement(A, B, C)
         ABC.plot(colormap="Accent", opacity=self.contour)
         ABC.getPerpendicularLine(a[0]).plot()

@@ -4,7 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/pyGrid2D/IGrid2D.py" description="    # def f1(x):&#10;    #     # r = x[0]*x[0]+x[1]*x[..." line="175" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b39632-6f64-472f-8e29-171d77d87bf2" name="Default" comment="" />
+    <list default="true" id="32b39632-6f64-472f-8e29-171d77d87bf2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moviepy/三维动画课件/demo.py" afterPath="$PROJECT_DIR$/moviepy/三维动画课件/demo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moviepy/三维动画课件/MAYA_SCRIPT_PATH/scr/eg.py" afterPath="$PROJECT_DIR$/moviepy/三维动画课件/MAYA_SCRIPT_PATH/scr/eg.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="PycharmProjects.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -17,9 +21,10 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PycharmProjects$unstructured_grid.coverage" NAME="unstructured_grid Coverage Results" MODIFIED="1539330879846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization" />
     <SUITE FILE_PATH="coverage/PycharmProjects$exm1.coverage" NAME="exm1 Coverage Results" MODIFIED="1538725839611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d/quiver" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$atomic_orbital.coverage" NAME="atomic_orbital Coverage Results" MODIFIED="1539222175377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads/mayavi-master/examples/mayavi/mlab" />
     <SUITE FILE_PATH="coverage/PycharmProjects$mlab_3D_to_2D.coverage" NAME="mlab_3D_to_2D Coverage Results" MODIFIED="1539324426846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$atomic_orbital.coverage" NAME="atomic_orbital Coverage Results" MODIFIED="1539330452729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/mlab" />
     <SUITE FILE_PATH="coverage/PycharmProjects$wx_mayavi_embed_in_notebook.coverage" NAME="wx_mayavi_embed_in_notebook Coverage Results" MODIFIED="1539323908210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Tcube.coverage" NAME="Tcube Coverage Results" MODIFIED="1533895438948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D/3D" />
     <SUITE FILE_PATH="coverage/PycharmProjects$uhuhhat.coverage" NAME="uhuhhat Coverage Results" MODIFIED="1526482262999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SHDG2D" />
@@ -52,7 +57,8 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$mayaviexmp1.coverage" NAME="mayaviexmp1 Coverage Results" MODIFIED="1525664493851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d" />
     <SUITE FILE_PATH="coverage/PycharmProjects$ee1.coverage" NAME="ee1 Coverage Results" MODIFIED="1525277838214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d" />
     <SUITE FILE_PATH="coverage/PycharmProjects$exmp2.coverage" NAME="exmp2 Coverage Results" MODIFIED="1530949421763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphviz" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$tvtk_segmentation.coverage" NAME="tvtk_segmentation Coverage Results" MODIFIED="1524708165783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$probe_filter.coverage" NAME="probe_filter Coverage Results" MODIFIED="1539331143900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tvtk_segmentation.coverage" NAME="tvtk_segmentation Coverage Results" MODIFIED="1539330872038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization" />
     <SUITE FILE_PATH="coverage/PycharmProjects$sameplane.coverage" NAME="sameplane Coverage Results" MODIFIED="1537781210803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D/mapping" />
     <SUITE FILE_PATH="coverage/PycharmProjects$gyro2.coverage" NAME="gyro2 Coverage Results" MODIFIED="1539233099352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads/mayavi-master/examples/tvtk/visual" />
     <SUITE FILE_PATH="coverage/PycharmProjects$contour.coverage" NAME="contour Coverage Results" MODIFIED="1539324517450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization" />
@@ -120,6 +126,7 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$DuffyU.coverage" NAME="DuffyU Coverage Results" MODIFIED="1525181646258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_exmple/error_order" />
     <SUITE FILE_PATH="coverage/PycharmProjects$wave.coverage" NAME="wave Coverage Results" MODIFIED="1539236233347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads/mayavi-master/examples/tvtk/visual" />
     <SUITE FILE_PATH="coverage/PycharmProjects$mlab_interactive_dialog.coverage" NAME="mlab_interactive_dialog Coverage Results" MODIFIED="1539318651685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$nongui.coverage" NAME="nongui Coverage Results" MODIFIED="1539329708526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi" />
     <SUITE FILE_PATH="coverage/PycharmProjects$write_dolfin.coverage" NAME="write_dolfin Coverage Results" MODIFIED="1523884888251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
     <SUITE FILE_PATH="coverage/PycharmProjects$ivtk_example.coverage" NAME="ivtk_example Coverage Results" MODIFIED="1539232317832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads/mayavi-master/examples/tvtk" />
     <SUITE FILE_PATH="coverage/PycharmProjects$mayavi_traits_ui.coverage" NAME="mayavi_traits_ui Coverage Results" MODIFIED="1539319784317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive" />
@@ -170,7 +177,7 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$elastic_contact_planes.coverage" NAME="elastic_contact_planes Coverage Results" MODIFIED="1525945145141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/linear_elasticity" />
     <SUITE FILE_PATH="coverage/PycharmProjects$sfepy_run.coverage" NAME="sfepy-run Coverage Results" MODIFIED="1523710844714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27/Lib/site-packages/sfepy-master" />
     <SUITE FILE_PATH="coverage/PycharmProjects$femdiffusion2dT_test.coverage" NAME="femdiffusion2dT_test Coverage Results" MODIFIED="1532700097051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/2018中科院暑期学校资料/个人作业/pythoncodes/femdiffusion2dT" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$eg.coverage" NAME="eg Coverage Results" MODIFIED="1539219983662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/三维动画课件/MAYA_SCRIPT_PATH" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$eg.coverage" NAME="eg Coverage Results" MODIFIED="1539345691490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/三维动画课件/MAYA_SCRIPT_PATH/scr" />
     <SUITE FILE_PATH="coverage/PycharmProjects$323.coverage" NAME="323 Coverage Results" MODIFIED="1518834312481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
     <SUITE FILE_PATH="coverage/PycharmProjects$unstructured_grid_1_.coverage" NAME="unstructured_grid(1) Coverage Results" MODIFIED="1539176097734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads" />
     <SUITE FILE_PATH="coverage/PycharmProjects$test_hdg2d.coverage" NAME="test_hdg2d Coverage Results" MODIFIED="1526313909000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HDG2D" />
@@ -200,7 +207,7 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$polydata.coverage" NAME="polydata Coverage Results" MODIFIED="1539176029726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/三维动画课件" />
     <SUITE FILE_PATH="coverage/PycharmProjects$orbit.coverage" NAME="orbit Coverage Results" MODIFIED="1539236206695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads/mayavi-master/examples/tvtk/visual" />
     <SUITE FILE_PATH="coverage/PycharmProjects$tiny_mesh.coverage" NAME="tiny_mesh Coverage Results" MODIFIED="1539232929989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads/mayavi-master/examples/tvtk" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$.coverage" NAME="平面切立方体 Coverage Results" MODIFIED="1539325092416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/三维动画课件" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$.coverage" NAME="选中变色 Coverage Results" MODIFIED="1539390901811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/三维动画课件/exm" />
     <SUITE FILE_PATH="coverage/PycharmProjects$embedding_in_tk2.coverage" NAME="embedding_in_tk2 Coverage Results" MODIFIED="1539307733389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Libraries/matplotlib/Examples/user_interfaces" />
     <SUITE FILE_PATH="coverage/PycharmProjects$exmp1__1_.coverage" NAME="exmp1 (1) Coverage Results" MODIFIED="1529852738642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sklearn" />
     <SUITE FILE_PATH="coverage/PycharmProjects$lines3d_demo.coverage" NAME="lines3d_demo Coverage Results" MODIFIED="1539307478773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Libraries/matplotlib/Examples/mplot3d" />
@@ -211,16 +218,19 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1538989644685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/三维动画课件" />
     <SUITE FILE_PATH="coverage/PycharmProjects$mayavi.coverage" NAME="mayavi与界面 Coverage Results" MODIFIED="1539158861214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/三维动画课件" />
     <SUITE FILE_PATH="coverage/PycharmProjects$test_tri_pml.coverage" NAME="test_tri_pml Coverage Results" MODIFIED="1523971017306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$pick_on_surface.coverage" NAME="pick_on_surface Coverage Results" MODIFIED="1539305929894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/data_interaction" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pick_on_surface.coverage" NAME="pick_on_surface Coverage Results" MODIFIED="1539331395727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/data_interaction" />
     <SUITE FILE_PATH="coverage/PycharmProjects$tet_size_control.coverage" NAME="tet-size-control Coverage Results" MODIFIED="1523971088391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$compute_in_thread.coverage" NAME="compute_in_thread Coverage Results" MODIFIED="1539323721771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$surf_regular_mlab.coverage" NAME="surf_regular_mlab Coverage Results" MODIFIED="1539330983647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$compute_in_thread.coverage" NAME="compute_in_thread Coverage Results" MODIFIED="1539361886166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive" />
     <SUITE FILE_PATH="coverage/PycharmProjects$band_gaps.coverage" NAME="band_gaps Coverage Results" MODIFIED="1525363210369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/phononic" />
     <SUITE FILE_PATH="coverage/PycharmProjects$scene_editor.coverage" NAME="scene_editor Coverage Results" MODIFIED="1539307968097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/tvtk" />
     <SUITE FILE_PATH="coverage/PycharmProjects$boron.coverage" NAME="boron Coverage Results" MODIFIED="1525363243454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/quantum" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$standalone.coverage" NAME="standalone Coverage Results" MODIFIED="1539329551930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi" />
     <SUITE FILE_PATH="coverage/PycharmProjects$exmp1.coverage" NAME="exmp1 Coverage Results" MODIFIED="1537518368278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sklearn" />
     <SUITE FILE_PATH="coverage/PycharmProjects$femdiffusion2dT.coverage" NAME="femdiffusion2dT Coverage Results" MODIFIED="1532332994682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中科院暑期学校/femdiffusion2dT" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$streamline.coverage" NAME="streamline Coverage Results" MODIFIED="1539330739672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization" />
     <SUITE FILE_PATH="coverage/PycharmProjects$mlab_visual.coverage" NAME="mlab_visual Coverage Results" MODIFIED="1539317890182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$pointLinePlane.coverage" NAME="pointLinePlane Coverage Results" MODIFIED="1539265651311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/三维动画课件" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pointLinePlane.coverage" NAME="pointLinePlane Coverage Results" MODIFIED="1539348779375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/三维动画课件/exm" />
     <SUITE FILE_PATH="coverage/PycharmProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1526375260494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/PlotHDGSketch" />
     <SUITE FILE_PATH="coverage/PycharmProjects$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1537341524181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/veen" />
     <SUITE FILE_PATH="coverage/PycharmProjects$test_ball.coverage" NAME="test_ball Coverage Results" MODIFIED="1525185260090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
@@ -236,8 +246,9 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$hydrogen.coverage" NAME="hydrogen Coverage Results" MODIFIED="1525934098446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/quantum" />
     <SUITE FILE_PATH="coverage/PycharmProjects$array_animation.coverage" NAME="array_animation Coverage Results" MODIFIED="1539231783241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads/mayavi-master/examples/tvtk" />
     <SUITE FILE_PATH="coverage/PycharmProjects$select_red_balls.coverage" NAME="select_red_balls Coverage Results" MODIFIED="1539305955615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/data_interaction" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$adjust_cropping_extents.coverage" NAME="adjust_cropping_extents Coverage Results" MODIFIED="1539320006110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$adjust_cropping_extents.coverage" NAME="adjust_cropping_extents Coverage Results" MODIFIED="1539361980570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive" />
     <SUITE FILE_PATH="coverage/PycharmProjects$mlab_traits_ui.coverage" NAME="mlab_traits_ui Coverage Results" MODIFIED="1539323863354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$structured_points3d.coverage" NAME="structured_points3d Coverage Results" MODIFIED="1539331013215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization" />
     <SUITE FILE_PATH="coverage/PycharmProjects$fanc2.coverage" NAME="fanc2 Coverage Results" MODIFIED="1530943958993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlibex" />
     <SUITE FILE_PATH="coverage/PycharmProjects$lorenz.coverage" NAME="lorenz Coverage Results" MODIFIED="1539233140826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/360Downloads/mayavi-master/examples/tvtk/visual" />
     <SUITE FILE_PATH="coverage/PycharmProjects$coil_design_application.coverage" NAME="coil_design_application Coverage Results" MODIFIED="1539320061976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive" />
@@ -270,8 +281,10 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$xx.coverage" NAME="xx Coverage Results" MODIFIED="1537520381960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3scrapy" />
     <SUITE FILE_PATH="coverage/PycharmProjects$error2D_smallmoon1.coverage" NAME="error2D_smallmoon1 Coverage Results" MODIFIED="1522072711632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/重要的东西/biyelunwenKFY20180326/IHDGpython_error/IHDGpython_error" />
     <SUITE FILE_PATH="coverage/PycharmProjects$subgraph.coverage" NAME="subgraph Coverage Results" MODIFIED="1531238863560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphviz" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$scatter_plot.coverage" NAME="scatter_plot Coverage Results" MODIFIED="1539330555142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization" />
     <SUITE FILE_PATH="coverage/PycharmProjects$DuffyU_2.coverage" NAME="DuffyU_2 Coverage Results" MODIFIED="1520615907232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
     <SUITE FILE_PATH="coverage/PycharmProjects$linear_elastic.coverage" NAME="linear_elastic Coverage Results" MODIFIED="1523866861552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/linear_elasticity" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$numeric_source.coverage" NAME="numeric_source Coverage Results" MODIFIED="1539331356557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization" />
     <SUITE FILE_PATH="coverage/PycharmProjects$3.coverage" NAME="圆界面3 Coverage Results" MODIFIED="1521433868218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyGrid2D/interface2D" />
     <SUITE FILE_PATH="coverage/PycharmProjects$HUadd_1.coverage" NAME="HUadd_1 Coverage Results" MODIFIED="1520615647791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python_plot_error" />
     <SUITE FILE_PATH="coverage/PycharmProjects$modal_analysis.coverage" NAME="modal_analysis Coverage Results" MODIFIED="1525945094121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfepyexmples/examples/linear_elasticity" />
@@ -328,6 +341,7 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$functionQuad.coverage" NAME="functionQuad Coverage Results" MODIFIED="1531125334673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
     <SUITE FILE_PATH="coverage/PycharmProjects$mesh.coverage" NAME="mesh Coverage Results" MODIFIED="1525251911305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feonexmples/examples/mesh" />
     <SUITE FILE_PATH="coverage/PycharmProjects$test54.coverage" NAME="test54 Coverage Results" MODIFIED="1539056937826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/三维动画课件" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$user_mayavi.coverage" NAME="user_mayavi Coverage Results" MODIFIED="1539329436175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi" />
     <SUITE FILE_PATH="coverage/PycharmProjects$test_hcg2d.coverage" NAME="test_hcg2d Coverage Results" MODIFIED="1530345144755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HCG2D" />
     <SUITE FILE_PATH="coverage/PycharmProjects$test_scg2d__1_.coverage" NAME="test_scg2d (1) Coverage Results" MODIFIED="1530891513116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCG2D" />
     <SUITE FILE_PATH="coverage/PycharmProjects$pdfToPng2.coverage" NAME="pdfToPng2 Coverage Results" MODIFIED="1528266913375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PngGifPdf" />
@@ -339,6 +353,7 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$agraph.coverage" NAME="agraph Coverage Results" MODIFIED="1529817675933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27/Lib/site-packages/pygraphviz" />
     <SUITE FILE_PATH="coverage/PycharmProjects$useful.coverage" NAME="useful Coverage Results" MODIFIED="1526444104125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot4d" />
     <SUITE FILE_PATH="coverage/PycharmProjects$TTheta3D.coverage" NAME="TTheta3D Coverage Results" MODIFIED="1537683583405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pointLinePlane__1_.coverage" NAME="pointLinePlane (1) Coverage Results" MODIFIED="1539358139429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moviepy/三维动画课件" />
     <SUITE FILE_PATH="coverage/PycharmProjects$mesh_ply.coverage" NAME="mesh_ply Coverage Results" MODIFIED="1523970825026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meshPyexamples" />
     <SUITE FILE_PATH="coverage/PycharmProjects$box2d.coverage" NAME="box2d Coverage Results" MODIFIED="1533892617819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCodes/HDG3D/3D" />
   </component>
@@ -354,64 +369,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="datasets.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization/datasets.py">
+      <file leaf-file-name="adjust_cropping_extents.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/adjust_cropping_extents.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3520">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2260">
+              <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="选中移动.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/exm/选中移动.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="260">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="delaunay_graph.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization/delaunay_graph.py">
+      <file leaf-file-name="选中变色.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/exm/选中变色.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="4660">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="glyph.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization/glyph.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="平面切立方体.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/平面切立方体.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="image_cursor_filter.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization/image_cursor_filter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1640">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2568" max-vertical-offset="3220">
-              <caret line="136" column="43" selection-start-line="136" selection-start-column="43" selection-end-line="136" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="893" max-vertical-offset="1500">
+              <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
               <folding>
-                <element signature="e#189#268#0" expanded="true" />
+                <element signature="e#189#207#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pointLinePlane.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/exm/pointLinePlane.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3271501" vertical-offset="3227" max-vertical-offset="7800">
+              <caret line="123" column="89" selection-start-line="123" selection-start-column="74" selection-end-line="123" selection-end-column="89" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -424,11 +419,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/moviepy/veen/ex1.py" />
-        <option value="$PROJECT_DIR$/Deep-Image-Matting-master/test.py" />
-        <option value="$PROJECT_DIR$/pyGrid2D/Grid2D.py" />
-        <option value="$PROJECT_DIR$/pyGrid2D/testT.py" />
-        <option value="$PROJECT_DIR$/testmesh/pygridRAdd.py" />
         <option value="$PROJECT_DIR$/pythonCodes/HDG3D/mapping3d/mattest.py" />
         <option value="$PROJECT_DIR$/pythonCodes/HDG3D/mapping3d/mapping.py" />
         <option value="$PROJECT_DIR$/pythonCodes/HDG3D/mapping3d/sameplane.py" />
@@ -473,8 +463,13 @@
         <option value="D:/360Downloads/mayavi-master/examples/mayavi/mlab/tvtk_in_mayavi.py" />
         <option value="$PROJECT_DIR$/moviepy/三维动画课件/study.py" />
         <option value="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/data_interaction/pick_on_surface.py" />
-        <option value="$PROJECT_DIR$/moviepy/三维动画课件/pointLinePlane.py" />
+        <option value="$PROJECT_DIR$/moviepy/三维动画课件/exm/鼠标点击.py" />
+        <option value="$PROJECT_DIR$/moviepy/三维动画课件/exm/选中移动.py" />
+        <option value="$PROJECT_DIR$/moviepy/三维动画课件/MAYA_SCRIPT_PATH/scr/eg.py" />
         <option value="$PROJECT_DIR$/moviepy/三维动画课件/demo.py" />
+        <option value="$PROJECT_DIR$/moviepy/三维动画课件/pointLinePlane.py" />
+        <option value="$PROJECT_DIR$/moviepy/三维动画课件/exm/pointLinePlane.py" />
+        <option value="$PROJECT_DIR$/moviepy/三维动画课件/exm/选中变色.py" />
       </list>
     </option>
   </component>
@@ -548,6 +543,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="pythonCodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonCodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDG3D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonCodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDG3D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="moviepy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -567,6 +616,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="三维动画课件" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moviepy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="三维动画课件" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -596,6 +667,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Function" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -617,11 +702,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\moviepy\三维动画课件\exm" />
       <recent name="D:\PycharmProjects\moviepy\三维动画课件" />
       <recent name="D:\PycharmProjects\testmesh\rectTrembled" />
       <recent name="D:\PycharmProjects\moviepy\成绩" />
       <recent name="D:\PycharmProjects\pythonCodes\HDG3D\3D" />
-      <recent name="D:\PycharmProjects\plot4d\quiver" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PycharmProjects" />
@@ -629,48 +714,8 @@
       <recent name="D:\PycharmProjects\pyGrid2D" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.平面切立方体">
-    <configuration default="false" name="glyph" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProjects" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization/glyph.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="image_cursor_filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProjects" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization/image_cursor_filter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ViewportPainter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.选中变色">
+    <configuration default="false" name="eg" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -683,14 +728,34 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moviepy/三维动画课件/MAYA_SCRIPT_PATH/scr/ViewportPainter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moviepy/三维动画课件/MAYA_SCRIPT_PATH/scr/eg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="三维" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="pointLinePlane" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/moviepy/三维动画课件/exm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moviepy/三维动画课件/exm/pointLinePlane.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pointLinePlane (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -703,27 +768,47 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moviepy/三维动画课件/三维.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moviepy/三维动画课件/pointLinePlane.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="平面切立方体" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="compute_in_thread" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/moviepy/三维动画课件" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moviepy/三维动画课件/平面切立方体.py" />
+      <option name="SCRIPT_NAME" value="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/compute_in_thread.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="adjust_cropping_extents" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/adjust_cropping_extents.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -918,6 +1003,28 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="false" name="选中变色" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/moviepy/三维动画课件/exm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moviepy/三维动画课件/exm/选中变色.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
     <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -958,23 +1065,24 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <list size="8">
-      <item index="0" class="java.lang.String" itemvalue="Python.test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.qr1" />
-      <item index="2" class="java.lang.String" itemvalue="Python.demo" />
-      <item index="3" class="java.lang.String" itemvalue="Python.glyph" />
-      <item index="4" class="java.lang.String" itemvalue="Python.image_cursor_filter" />
-      <item index="5" class="java.lang.String" itemvalue="Python.ViewportPainter" />
-      <item index="6" class="java.lang.String" itemvalue="Python.三维" />
-      <item index="7" class="java.lang.String" itemvalue="Python.平面切立方体" />
+    <list size="9">
+      <item index="0" class="java.lang.String" itemvalue="Python.选中变色" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.qr1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.demo" />
+      <item index="4" class="java.lang.String" itemvalue="Python.eg" />
+      <item index="5" class="java.lang.String" itemvalue="Python.pointLinePlane" />
+      <item index="6" class="java.lang.String" itemvalue="Python.pointLinePlane (1)" />
+      <item index="7" class="java.lang.String" itemvalue="Python.compute_in_thread" />
+      <item index="8" class="java.lang.String" itemvalue="Python.adjust_cropping_extents" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.平面切立方体" />
-        <item index="1" class="java.lang.String" itemvalue="Python.三维" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ViewportPainter" />
-        <item index="3" class="java.lang.String" itemvalue="Python.image_cursor_filter" />
-        <item index="4" class="java.lang.String" itemvalue="Python.glyph" />
+        <item index="0" class="java.lang.String" itemvalue="Python.adjust_cropping_extents" />
+        <item index="1" class="java.lang.String" itemvalue="Python.compute_in_thread" />
+        <item index="2" class="java.lang.String" itemvalue="Python.pointLinePlane (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pointLinePlane" />
+        <item index="4" class="java.lang.String" itemvalue="Python.eg" />
       </list>
     </recent_temporary>
   </component>
@@ -1001,7 +1109,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5905512" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47716534" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43149605" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24011713" sideWeight="0.49885058" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1061,240 +1169,11 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="70" />
+      <option name="time" value="73" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Python27/Lib/site-packages/tvtk/tvtk_access.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9" vertical-offset="720" max-vertical-offset="1240">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/360Downloads/mayavi-master/docs/source/render_examples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2940" max-vertical-offset="10100">
-          <caret line="172" column="0" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/360Downloads/mayavi-master/examples/tvtk/animated_texture.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2220" max-vertical-offset="2720">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/data_interaction/select_red_balls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1056" max-vertical-offset="1900">
-          <caret line="37" column="10" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Libraries/Cython/Demos/callback/Makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="453">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/CodeTools/examples/block_context/simple_block_context_app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="1500">
-          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Libraries/matplotlib/Examples/mplot3d/wire3d_animation_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.74380165" vertical-offset="360" max-vertical-offset="880">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Libraries/matplotlib/Examples/mplot3d/text3d_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.24793388" vertical-offset="120" max-vertical-offset="680">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Libraries/matplotlib/Examples/mplot3d/lines3d_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="500">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Libraries/matplotlib/Examples/mplot3d/quiver3d_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="520">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Libraries/matplotlib/Examples/lines_bars_and_markers/marker_reference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="676" max-vertical-offset="1220">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Libraries/matplotlib/Examples/user_interfaces/embedding_in_tk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1300">
-          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Libraries/matplotlib/Examples/user_interfaces/embedding_in_tk2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="416" max-vertical-offset="1020">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/tvtk/scene_editor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6198347" vertical-offset="720" max-vertical-offset="1300">
-          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Libraries/matplotlib/Examples/axes_grid/scatter_hist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.355372" vertical-offset="656" max-vertical-offset="1140">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/tvtk/texture_glyph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0826446" vertical-offset="536" max-vertical-offset="1500">
-          <caret line="54" column="3" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/wx_embedding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="554" max-vertical-offset="1280">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/superquad_with_gui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1081" max-vertical-offset="1460">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/subclassing_mayavi_application.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1061" max-vertical-offset="1980">
-          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/poll_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="2520">
-          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/qt_embedding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="2240">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/multiple_mlab_scene_models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="569" max-vertical-offset="1420">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/mayavi_traits_ui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="384" max-vertical-offset="2080">
-          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/adjust_cropping_extents.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1116" max-vertical-offset="2260">
-          <caret line="49" column="57" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/coil_design_application.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2280" max-vertical-offset="5940">
-          <caret line="281" column="37" selection-start-line="281" selection-start-column="37" selection-end-line="281" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/pointLinePlane.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="7400">
-          <caret line="121" column="32" selection-start-line="121" selection-start-column="32" selection-end-line="121" selection-end-column="32" />
-          <folding>
-            <element signature="e#198#216#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/compute_in_thread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2140">
-          <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/mlab_interactive_dialog.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="840" max-vertical-offset="1600">
@@ -1363,14 +1242,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="4328" max-vertical-offset="4680">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/data_interaction/pick_on_surface.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="208" max-vertical-offset="1520">
-          <caret line="60" column="45" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -1460,7 +1331,7 @@
         <state vertical-scroll-proportion="-6.5486727" vertical-offset="2220" max-vertical-offset="5160">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#0#24#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1473,20 +1344,247 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/user_mayavi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2460" max-vertical-offset="5240">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/standalone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="428" max-vertical-offset="1200">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/nongui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2028" max-vertical-offset="2380">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/mlab/atomic_orbital.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1600">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization/scatter_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="808" max-vertical-offset="1340">
+          <caret line="54" column="10" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/litijihe.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/平面切立方体.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization/streamline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1520">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization/unstructured_grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1140" max-vertical-offset="2300">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization/tvtk_segmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="3040">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization/surf_regular_mlab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="388" max-vertical-offset="1160">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization/structured_points3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1460">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization/probe_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="848" max-vertical-offset="1680">
+          <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/advanced_visualization/numeric_source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1540">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/data_interaction/pick_on_surface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="794" max-vertical-offset="1520">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/MAYA_SCRIPT_PATH/scr/eg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1159" max-vertical-offset="1600">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding>
+            <element signature="e#186#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/data_interaction/select_red_balls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.5457063" vertical-offset="0" max-vertical-offset="1900">
+          <caret line="65" column="46" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Function/mapping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6206896" vertical-offset="2812" max-vertical-offset="3980">
+          <caret line="95" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCodes/HDG3D/3dja.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.8850574" vertical-offset="1352" max-vertical-offset="1940">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCodes/HDG3D/mapping/mapping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4100">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/MAYA_SCRIPT_PATH/scr/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4680">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCodes/HDG3D/mapping/sameplane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1520">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/exm/鼠标点击.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="957" max-vertical-offset="1380">
+          <caret line="53" column="27" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2568" max-vertical-offset="3220">
-          <caret line="136" column="43" selection-start-line="136" selection-start-column="43" selection-end-line="136" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.4059406" vertical-offset="1594" max-vertical-offset="3220">
+          <caret line="92" column="51" selection-start-line="92" selection-start-column="51" selection-end-line="92" selection-end-column="51" />
           <folding>
             <element signature="e#189#268#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/平面切立方体.py">
+    <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/pointLinePlane.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="7400">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <element signature="e#198#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/compute_in_thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1180" max-vertical-offset="2140">
+          <caret line="69" column="46" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/pythonxy/doc/Enthought Tool Suite/Mayavi/examples/mayavi/interactive/adjust_cropping_extents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2260">
+          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/exm/选中移动.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="445">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/exm/选中变色.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="893" max-vertical-offset="1500">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <element signature="e#189#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviepy/三维动画课件/exm/pointLinePlane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3271501" vertical-offset="3227" max-vertical-offset="7800">
+          <caret line="123" column="89" selection-start-line="123" selection-start-column="74" selection-end-line="123" selection-end-column="89" />
           <folding />
         </state>
       </provider>
