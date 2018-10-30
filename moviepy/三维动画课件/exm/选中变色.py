@@ -29,8 +29,8 @@ pointsplot = [p.plot(color=(1, 0, 0)) for p in points]
 
 
 AC = spaceElement(A, C)
-ACplot = [AC.plot(color=(0,0,0), num=20), AC.plot(color=(1,0,0), num=20)]
-ACplot[1].actor.visible = False
+ACplot = [AC.plot(linesize=0.01,color=(0,0,0), num=20), AC.plot(linesize=0.02, color=(1,0,0), num=20)]
+
 
 ACm = spaceElement(A, C).getCenterPoint()
 ACmplot = ACm.plot(color=(0, 0, 0))
@@ -40,30 +40,87 @@ Aplot = [A.plot(color=(1, 0, 0), scale_factor=0.08), A.plot(color=(0, 0, 0), sca
 
 
 ABC = spaceElement(A, B, C)
+ABC2 = spaceElement(A, B, C)
+
+
+
 f = lambda x: 0*x + 1
-ABCplot = [ABC.plot(opacity=0.8, num=20), ABC.plot(opacity=1.0, num=20, scalarsfunction=f)]
+# ABCplot = [ABC.plot(opacity=0.8, num=20), ABC2.plot(opacity=1.0, num=20, scalarsfunction=f)]
+
+# ABCplot = [ABC.plot(opacity=0.8, num=20)]
+ABCplot = []
+for i in range(20):
+    ABC.SCALING = 1+0.05*i
+    ABCplot += [ABC.plot(opacity=0.8, num=20)]
+
 
 
 ps = getcubepoints()
 a = [spaceElement(p) for p in ps]
 Frame(a[:4], a[4:]).plot()
-spaceElement(a[0],a[2],a[6],a[4]).plot(colormap="Spectral")
+a0264 = spaceElement(a[0],a[2],a[6],a[4])
+
+a0264plot = [a0264.plot(colormap="Spectral", opacity=0.3, scalarsfunction=f), a0264.plot(colormap="Spectral", opacity=0.8, scalarsfunction=f)]
 
 
-def picker_callback(picker):
-    def plot(XXplot):
-        for i in range(len(XXplot)):
-            if picker.actor in XXplot[i].actor.actors:
-                XXplot[i].actor.visible = False
-                XXplot[(i+1)%len(XXplot)].actor.visible = True
+# from matplotlib import mathtext
+# parser = mathtext.MathTextParser("bitmap")
+# tmp,x = parser.to_mask(r'$\alpha$', dpi=120, fontsize=20)
+# tmp = np.where(tmp>0,1,0)
+# a0167 = spaceElement(a[0],a[1],a[6],a[7])
+# def cf(x):
+#     ans = np.zeros_like(x)
+#     s,t = np.shape(tmp)
+#     ans[len(x)-s:, :t] = tmp
+#     return ans
+# a0167.plot(colormap="Spectral", opacity=0.3, scalarsfunction=f, num=60)
 
-    plot(ABCplot)
-    plot(ACplot)
-    plot(Aplot)
+# class ContralParameters(object):
+#     a = 0
+#     b = 0
+#     c = 0
+# cp = ContralParameters()
 
 
-picker = figure.on_mouse_pick(picker_callback)
-# Decrease the tolerance, so that we can more easily select a precise
-# point.
+
+pickerplots = [Aplot, ACplot, ABCplot, a0264plot]
+def init(plots):
+    for pts in plots:
+        pts[0].actor.visible = True
+        for i in range(1, len(pts)):
+            pts[i].actor.visible = False
+    return
+init(pickerplots)
+
+
+def pickdirection(direction):
+
+    def picker_callback(picker):
+        def plot(XXplot):
+            for i in range(len(XXplot)):
+                if picker.actor in XXplot[i].actor.actors:
+                    XXplot[i].actor.visible = False
+                    XXplot[(i+1*direction)%len(XXplot)].actor.visible = True
+        for pt in pickerplots:
+            plot(pt)
+    return picker_callback
+
+def initialize(picker):
+    mark = -1
+    for i, pts in enumerate(pickerplots):
+        for p in pts:
+            if picker.actor in p.actor.actors:
+                mark = i
+    if mark == -1:
+        init(pickerplots)
+    else:
+        init([pickerplots[mark]])
+    return
+
+picker = figure.on_mouse_pick(pickdirection(1), button="Left")
+picker.tolerance = 0.01
+picker = figure.on_mouse_pick(pickdirection(-1), button="Right")
+picker.tolerance = 0.01
+picker = figure.on_mouse_pick(initialize, button="Middle")
 picker.tolerance = 0.01
 mlab.show()

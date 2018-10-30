@@ -88,7 +88,9 @@ class FieldViewer(HasTraits):
         # mlab.figure(fgcolor=(0, 0, 1.0), bgcolor=(1.0, 1.0, 1.0), size=(700, 700))
         setSCALING(4)
         mlab.clf()
-
+        v = mlab.gcf(engine=None)
+        v.scene.background = (1, 1, 1)
+        v.scene.foreground = (0, 0, 1)
 
         Axis(1.5,1.5,1.5).plot(arraymode="2darrow")
 
@@ -107,7 +109,8 @@ class FieldViewer(HasTraits):
         A.plot()
         B.plot()
         C.plot()
-        A.plotText("A")
+        aa = A.plotText("A",0.1)
+
         # B.plotText("B")
         # C.plotText("C")
         t = D.plotText("D")
@@ -129,8 +132,7 @@ class FieldViewer(HasTraits):
 
 
 
-        v = mlab.gcf(engine=None)
-        # v.scene.background = (1, 1, 1)
+
         # And display text
         vtext = tvtk.VectorText()
         vtext.text = 'm'

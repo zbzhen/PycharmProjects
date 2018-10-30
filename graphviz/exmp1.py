@@ -72,4 +72,4 @@ G.draw('1.pdf',format='pdf')
 # G.draw('1.png',format='png')
 # print help(pgv)
 import os
-os.remove('test2.png')
+# os.remove('test2.png')

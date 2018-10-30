@@ -18,16 +18,19 @@ class Point(object):
     def __init__(self, coord, pl=mlab):
         self.pl = pl
         self.coord = np.array(coord)*1.0
-
+        self.coords = self.coord
+        self.SCALING = SCALING
+        self.plotCoords = []
 
     def plot(self, scale_factor=0.03, color=(1.0, 0.0, 0.0)):
-        x, y, z = self.coord*SCALING
-        scale_factor *= abs(SCALING)
+        x, y, z = self.coord*self.SCALING
+        scale_factor *= abs(self.SCALING)
+        self.plotCoords = np.array([x,y,z])
         result = self.pl.points3d(x, y, z, scale_factor=scale_factor, color=color)
         return result
 
     def plotText(self, name, width=0.03):
-        x, y, z = self.coord*SCALING
+        x, y, z = self.coord*self.SCALING
         # width *= np.sqrt(abs(SCALING))
         result = self.pl.text(x, y, name, z=z, width=width)
         return result
@@ -50,15 +53,18 @@ class Line(object):
     def __init__(self, coords, pl=mlab):
         self.pl = pl
         self.coords = np.array(coords)*1.0
+        self.SCALING = SCALING
+        self.plotCoords = []
 
 
     def plot(self, linesize=0.005, color=(0.2, 0.2, 0.2), linestyle="solid", num=2):
-        x, y, z = SCALING*self.coords.copy().T
-        x = np.linspace(x[0], x[1], num)
-        y = np.linspace(y[0], y[1], num)
-        z = np.linspace(z[0], z[1], num)
+        x, y, z = self.SCALING*self.coords.copy().T
         if linestyle == "solid":
-            result = self.pl.plot3d(x, y, z, tube_radius=linesize, color=color, representation="wireframe")
+            x = np.linspace(x[0], x[1], num)
+            y = np.linspace(y[0], y[1], num)
+            z = np.linspace(z[0], z[1], num)
+            self.plotCoords = np.array([x,y,z])
+            result = self.pl.plot3d(x, y, z, tube_radius=linesize, color=color)
             return result
         else:
             num = num*3 + 5
@@ -68,14 +74,14 @@ class Line(object):
                 yy = np.array([y[0]+1.0/num*i*(y[1]-y[0]), y[0]+1.0/num*(i+1)*(y[1]-y[0])])
                 zz = np.array([z[0]+1.0/num*i*(z[1]-z[0]), z[0]+1.0/num*(i+1)*(z[1]-z[0])])
                 if i%2 == 0:
-                    self.pl.plot3d(xx,yy,zz, tube_radius=linesize*0.2, color=color, representation="wireframe")
+                    self.pl.plot3d(xx,yy,zz, tube_radius=linesize*0.2, color=color)
         return
 
     def plotArrow(self, color=(1,0,0), arraymode='2darrow'):
         x1 = self.coords[0].copy()
         x2 = self.coords[1].copy()
-        x, y, z = x1*SCALING
-        u, v, w = x2*SCALING
+        x, y, z = x1*self.SCALING
+        u, v, w = x2*self.SCALING
         tent = [x, u, y, v, z, w]
         result = self.pl.quiver3d(x,y,z,u,v,w, extent=tent, color=color, mode=arraymode)
         return result
@@ -119,21 +125,26 @@ class Plane(object):
         self.poly = len(self.coords)
         if self.poly == 3:
             self.coords = np.vstack((self.coords, self.coords[-1]))
+        self.SCALING = SCALING
+        self.plotCoords = []
 
-
-    def plot(self, transparent=True, colormap="black-white", opacity=0.8, scalarsfunction=lambda x: x, num=2):
+    def plot(self, transparent=True, colormap="black-white", opacity=0.8, scalarsfunction=lambda x: x, num=20):
         xhat = np.mgrid[-1:1:num*1j, -1:1:num*1j]
         mp = lambda a, b, x: np.array([0.5*(b[i]-a[i])*x + 0.5*(b[i]+a[i]) for i in [0,1,2]])
-        a,b,c,d = self.coords.copy()*SCALING
+        a,b,c,d = self.coords.copy()*self.SCALING
         ad = mp(a, d, xhat[1])
         bc = mp(b, c,xhat[1])
         x,y,z = mp(ad, bc,xhat[0])
+        self.plotCoords = np.array([x,y,z])
         result = mlab.mesh(x, y, z, transparent=transparent,
                            colormap=colormap, opacity=opacity, scalars=scalarsfunction(z))
         return result
 
+
+
+
     def plotLine(self, linesize=0.001, color=(0.2, 0.2, 0.2), linestyle="solid", num=20):
-        linesize *= abs(SCALING)
+        linesize *= abs(self.SCALING)
         if self.poly==3:
             spaceElement([self.coords[0],self.coords[1]]).plot(linesize=linesize, color=color, linestyle=linestyle, num=num)
             spaceElement([self.coords[0],self.coords[-1]]).plot(linesize=linesize, color=color, linestyle=linestyle, num=num)
@@ -182,12 +193,41 @@ class Plane(object):
 
 
 class Frame(object):
-    def __init__(self, points1, points2):
+    def __init__(self, points1, points2, pl=mlab):
         self.points1 = points1
         self.points2 = points2
+        self.pl = pl
+        self.SCALING = SCALING
 
-    def plot(self, linesize=0.001, color=(0.2, 0.2, 0.2), linestyle="solid", num=20):
-        linesize *= abs(SCALING)
+    def plot(self, linesize=0.01, color=(0.2, 0.2, 0.2),  num=2, linestyle="solid"):
+        # p = []
+        # for i in self.points1:
+        #     p += [i.coords.tolist()]
+        # for i in self.points2:
+        #     p += [i.coords.tolist()]
+        # points = np.array(p)*SCALING*1.0
+        # index = []
+        # if len(self.points1) == 4 and len(self.points2) == 4:
+        #     index = [0,1,2,3,0,4,5,6,7,4,0,1,5,6,2,3,7]
+        # elif len(self.points1) == 3 and len(self.points2) == 3:
+        #     index = [0,1,2,0,3,4,5,3,0,1,4,5,2]
+        # elif len(self.points1) == 1 and len(self.points2) == 3:
+        #     index = [0,1,2,3,1,0,2,3,0]
+        # elif len(self.points1) == 1 and len(self.points2) == 4:
+        #     index = [0,1,2,3,4,1,0,2,3,0,4]
+        # else:
+        #     ValueError("data bug")
+        # x = []
+        # y = []
+        # z = []
+        # for i in range(0,len(index)-1):
+        #     Li = index[i]
+        #     Ri = index[i]
+        #     x += np.linspace(points[Li][0], points[Ri][0], num=num).tolist()
+        #     y += np.linspace(points[Li][1], points[Ri][1], num=num).tolist()
+        #     z += np.linspace(points[Li][2], points[Ri][2], num=num).tolist()
+        # return self.pl.plot3d(x, y, z, tube_radius=linesize*0.5, color=color)
+        linesize *= abs(self.SCALING)
         if isinstance(self.points1, (list, tuple)):
             poly1 = len(self.points1)
         else:
@@ -273,14 +313,15 @@ class Axis(object):
         self.z = z
         self.center = center
         self.pl = pl
+        self.SCALING = SCALING
 
     def plot(self, linesize=0.0005, textwidth=0.03, arraymode="arrow"):
         a, b, c = self.x, self.y, self.z
         # textwidth *= (abs(SCALING))**0.1
         # textwidth *= 1
-        linesize *= abs(SCALING)**0.5
+        linesize *= abs(self.SCALING)**0.5
         ct = np.array(self.center)
-        t = lambda x: 1.0*x/abs(x)/abs(SCALING)
+        t = lambda x: 1.0*x/abs(x)/abs(self.SCALING)
         o = spaceElement(ct)
         x1 = spaceElement(a-t(a)-ct[0], ct[1], ct[2])
         x2 = spaceElement(a-ct[0], ct[1], ct[2])
@@ -323,6 +364,22 @@ def getcubepoints(L=[0,0,0], R=[1,1,1]):
         ans[i][1] = R[1]
         ans[i+4][1] = R[1]
     return ans
+
+def puttex(text, dpi=120, fontsize=20, position='leftbottom'):
+    from matplotlib import mathtext
+    parser = mathtext.MathTextParser("bitmap")
+    te, x = parser.to_mask(text, dpi=dpi, fontsize=fontsize)
+    te = np.where(te>0,2,0)
+    s,t = np.shape(te)
+    def cf(x):
+        xs,xt = np.shape(x)
+        ans = x*0
+        if position == 'leftbottom':
+            ans[xs-s-10:xs-10, 5:t+5] += te*0.003
+        elif position == 'lefttop':
+            ans[10:10+s, 5:5+t] += te*0.003
+        return ans
+    return cf
 
 
 if __name__ == "__main__":

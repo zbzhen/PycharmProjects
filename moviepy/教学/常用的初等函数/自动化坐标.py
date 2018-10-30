@@ -28,10 +28,10 @@ ticksize = 20
 # x = np.linspace(-2, 2, 120)
 # y = fx(x)
 
-# 下面的3行代码是绝对值函数
-fx = lambda x: abs(x)
-x = np.linspace(-2, 2, 120)
-y = fx(x)
+# # 下面的3行代码是绝对值函数
+# fx = lambda x: abs(x)
+# x = np.linspace(-2, 2, 120)
+# y = fx(x)
 
 # # 下面的3行代码是对数函数
 # fx = lambda x: np.log(x)
@@ -54,6 +54,19 @@ y = fx(x)
 # x = 4*t*t
 # y = 4*t
 
+
+# fx = lambda x: abs(np.sin(x)) + abs(np.cos(x))
+# x = np.linspace(-np.pi, np.pi, 120)
+# y = fx(x)
+
+fx = lambda x: np.sin(x) + np.sqrt(3.0)*np.cos(x)+np.sin(x)*np.cos(x)
+x = np.linspace(0, 0.5*np.pi, 120)
+y = fx(x)
+print fx(np.pi/4.5)
+print fx(np.pi/4.75)
+print fx(np.pi/4.8)
+print fx(np.pi/4.85)
+print fx(np.pi/5.0)
 #这个定义域和值域可以自己设置
 DL = x.min()
 DR = x.max()
@@ -116,10 +129,10 @@ xticks = []
 yticks = []
 xtdocs = []
 ytdocs = []
-# xticks = np.array(range(int(DL), 0) + range(1, int(DR)+1))  # 这个是设置x刻度线
-# xtdocs = xticks.copy()  # 这个是设置x刻度值
-# yticks = np.array(range(int(ZL), 0) + range(1, int(ZR)+1))  # 这个是设置x刻度值
-# ytdocs = yticks.copy()   # 这个是设置y刻度值
+xticks = np.array(range(int(DL), 0) + range(1, int(DR)+1))  # 这个是设置x刻度线
+xtdocs = xticks.copy()  # 这个是设置x刻度值
+yticks = np.array(range(int(ZL), 0) + range(1, int(ZR)+1))  # 这个是设置x刻度值
+ytdocs = yticks.copy()   # 这个是设置y刻度值
 ht = 0.03*lim
 # 下面的两个for循环不要动
 for i in range(len(xticks)):
@@ -132,4 +145,4 @@ for i in range(len(yticks)):
     plt.text(0-ht, yticks[i], tex, color="black", fontsize=ticksize, va='center', ha='right')
 plt.savefig("sample.png")
 
-# plt.show()
+plt.show()

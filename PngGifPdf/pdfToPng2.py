@@ -33,4 +33,4 @@ def convert_pdf(filename, output_path, resolution=150):
 
             img.save(filename=image_filename)
 
-convert_pdf("D:\pdfs\\长郡高一测试卷选讲.pdf", "")
+convert_pdf("sample.pdf", "")
